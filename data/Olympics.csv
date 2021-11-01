@@ -1,0 +1,1345 @@
+Year,Country_Code,Country_Name,Host_city,Host_country,Gold,Silver,Bronze,Total_Medals,Continent
+1932,USA,United States,Los Angeles,United States,41,32,30,103,North America
+1932,ITA,Italy,Los Angeles,United States,12,12,12,36,Europe
+1932,FRA,France,Los Angeles,United States,10,5,4,19,Europe
+1932,SWE,Sweden,Los Angeles,United States,9,5,9,23,Europe
+1932,JPN,Japan,Los Angeles,United States,7,7,4,18,Asia
+1932,HUN,Hungary,Los Angeles,United States,6,4,5,15,Europe
+1932,FIN,Finland,Los Angeles,United States,5,8,12,25,Europe
+1932,GBR,Great Britain,Los Angeles,United States,4,7,5,16,Europe
+1932,DEU,Germany,Los Angeles,United States,3,12,5,20,Europe
+1932,AUS,Australia,Los Angeles,United States,3,1,1,5,Oceania
+1932,ARG,Argentina,Los Angeles,United States,3,1,0,4,South America
+1932,CAN,Canada,Los Angeles,United States,2,5,8,15,North America
+1932,NLD,Netherlands,Los Angeles,United States,2,5,0,7,Europe
+1932,POL,Poland,Los Angeles,United States,2,1,4,7,Europe
+1932,ZAF,South Africa,Los Angeles,United States,2,0,3,5,Africa
+1932,IRL,Ireland,Los Angeles,United States,2,0,0,2,Europe
+1932,CZE,Czechoslovakia,Los Angeles,United States,1,2,1,4,Europe
+1932,AUT,Austria,Los Angeles,United States,1,1,3,5,Europe
+1932,IND,India,Los Angeles,United States,1,0,0,1,Asia
+1932,DNK,Denmark,Los Angeles,United States,0,3,3,6,Europe
+1932,MEX,Mexico,Los Angeles,United States,0,2,0,2,North America
+1932,LVA,Latvia,Los Angeles,United States,0,1,0,1,Europe
+1932,NZL,New Zealand,Los Angeles,United States,0,1,0,1,Oceania
+1932,CHE,Switzerland,Los Angeles,United States,0,1,0,1,Europe
+1932,PHL,Philippines,Los Angeles,United States,0,0,3,3,Asia
+1932,ESP,Spain,Los Angeles,United States,0,0,1,1,Europe
+1932,URY,Uruguay,Los Angeles,United States,0,0,1,1,South America
+1928,USA,United States,Amsterdam,Netherlands,22,18,16,56,North America
+1928,DEU,Germany,Amsterdam,Netherlands,10,7,14,31,Europe
+1928,FIN,Finland,Amsterdam,Netherlands,8,8,9,25,Europe
+1928,SWE,Sweden,Amsterdam,Netherlands,7,6,12,25,Europe
+1928,ITA,Italy,Amsterdam,Netherlands,7,5,7,19,Europe
+1928,CHE,Switzerland,Amsterdam,Netherlands,7,4,4,15,Europe
+1928,FRA,France,Amsterdam,Netherlands,6,10,5,21,Europe
+1928,NLD,Netherlands,Amsterdam,Netherlands,6,9,4,19,Europe
+1928,HUN,Hungary,Amsterdam,Netherlands,4,5,0,9,Europe
+1928,CAN,Canada,Amsterdam,Netherlands,4,4,7,15,North America
+1928,GBR,Great Britain,Amsterdam,Netherlands,3,10,7,20,Europe
+1928,ARG,Argentina,Amsterdam,Netherlands,3,3,1,7,South America
+1928,DNK,Denmark,Amsterdam,Netherlands,3,1,2,6,Europe
+1928,CZE,Czechoslovakia,Amsterdam,Netherlands,2,5,2,9,Europe
+1928,JPN,Japan,Amsterdam,Netherlands,2,2,1,5,Asia
+1928,EST,Estonia,Amsterdam,Netherlands,2,1,2,5,Europe
+1928,EGY,Egypt,Amsterdam,Netherlands,2,1,1,4,Africa
+1928,AUT,Austria,Amsterdam,Netherlands,2,0,1,3,Europe
+1928,AUS,Australia,Amsterdam,Netherlands,1,2,1,4,Oceania
+1928,NOR,Norway,Amsterdam,Netherlands,1,2,1,4,Europe
+1928,POL,Poland,Amsterdam,Netherlands,1,1,3,5,Europe
+1928,YUG,Yugoslavia,Amsterdam,Netherlands,1,1,3,5,Europe
+1928,ZAF,South Africa,Amsterdam,Netherlands,1,0,2,3,Africa
+1928,IND,India,Amsterdam,Netherlands,1,0,0,1,Asia
+1928,IRL,Ireland,Amsterdam,Netherlands,1,0,0,1,Europe
+1928,NZL,New Zealand,Amsterdam,Netherlands,1,0,0,1,Oceania
+1928,ESP,Spain,Amsterdam,Netherlands,1,0,0,1,Europe
+1928,URY,Uruguay,Amsterdam,Netherlands,1,0,0,1,South America
+1928,BEL,Belgium,Amsterdam,Netherlands,0,1,2,3,Europe
+1928,CHL,Chile,Amsterdam,Netherlands,0,1,0,1,South America
+1928,HTI,Haiti,Amsterdam,Netherlands,0,1,0,1,North America
+1928,PHL,Philippines,Amsterdam,Netherlands,0,0,1,1,Asia
+1928,PRT,Portugal,Amsterdam,Netherlands,0,0,1,1,Europe
+1924,USA,United States,Paris,France,45,27,27,99,North America
+1924,FIN,Finland,Paris,France,14,13,10,37,Europe
+1924,FRA,France,Paris,France,13,15,10,38,Europe
+1924,GBR,Great Britain,Paris,France,9,13,12,34,Europe
+1924,ITA,Italy,Paris,France,8,3,5,16,Europe
+1924,CHE,Switzerland,Paris,France,7,8,10,25,Europe
+1924,NOR,Norway,Paris,France,5,2,3,10,Europe
+1924,SWE,Sweden,Paris,France,4,13,12,29,Europe
+1924,NLD,Netherlands,Paris,France,4,1,5,10,Europe
+1924,BEL,Belgium,Paris,France,3,7,3,13,Europe
+1924,AUS,Australia,Paris,France,3,1,2,6,Oceania
+1924,DNK,Denmark,Paris,France,2,5,2,9,Europe
+1924,HUN,Hungary,Paris,France,2,3,4,9,Europe
+1924,YUG,Yugoslavia,Paris,France,2,0,0,2,Europe
+1924,CZE,Czechoslovakia,Paris,France,1,4,5,10,Europe
+1924,ARG,Argentina,Paris,France,1,3,2,6,South America
+1924,EST,Estonia,Paris,France,1,1,4,6,Europe
+1924,ZAF,South Africa,Paris,France,1,1,1,3,Africa
+1924,URY,Uruguay,Paris,France,1,0,0,1,South America
+1924,AUT,Austria,Paris,France,0,3,1,4,Europe
+1924,CAN,Canada,Paris,France,0,3,1,4,North America
+1924,POL,Poland,Paris,France,0,1,1,2,Europe
+1924,HTI,Haiti,Paris,France,0,0,1,1,North America
+1924,JPN,Japan,Paris,France,0,0,1,1,Asia
+1924,NZL,New Zealand,Paris,France,0,0,1,1,Oceania
+1924,PRT,Portugal,Paris,France,0,0,1,1,Europe
+1924,ROU,Romania,Paris,France,0,0,1,1,Europe
+1920,USA,United States,Antwerp,Belgium,41,27,27,95,North America
+1920,SWE,Sweden,Antwerp,Belgium,19,20,25,64,Europe
+1920,BEL,Belgium,Antwerp,Belgium,16,12,14,42,Europe
+1920,FIN,Finland,Antwerp,Belgium,15,10,9,34,Europe
+1920,GBR,Great Britain,Antwerp,Belgium,14,16,13,43,Europe
+1920,NOR,Norway,Antwerp,Belgium,13,9,9,31,Europe
+1920,ITA,Italy,Antwerp,Belgium,13,5,5,23,Europe
+1920,FRA,France,Antwerp,Belgium,9,19,13,41,Europe
+1920,NLD,Netherlands,Antwerp,Belgium,4,2,5,11,Europe
+1920,DNK,Denmark,Antwerp,Belgium,3,9,1,13,Europe
+1920,ZAF,South Africa,Antwerp,Belgium,3,4,3,10,Africa
+1920,CAN,Canada,Antwerp,Belgium,3,3,3,9,North America
+1920,CHE,Switzerland,Antwerp,Belgium,2,2,7,11,Europe
+1920,EST,Estonia,Antwerp,Belgium,1,2,0,3,Europe
+1920,BRA,Brazil,Antwerp,Belgium,1,1,1,3,South America
+1920,AUS,Australia,Antwerp,Belgium,0,2,1,3,Oceania
+1920,JPN,Japan,Antwerp,Belgium,0,2,0,2,Asia
+1920,ESP,Spain,Antwerp,Belgium,0,2,0,2,Europe
+1920,GRC,Greece,Antwerp,Belgium,0,1,0,1,Europe
+1920,LUX,Luxembourg,Antwerp,Belgium,0,1,0,1,Europe
+1920,CZE,Czechoslovakia,Antwerp,Belgium,0,0,2,2,Europe
+1920,NZL,New Zealand,Antwerp,Belgium,0,0,1,1,Oceania
+1912,USA,United States,Stockholm,Sweden,26,19,19,64,North America
+1912,SWE,Sweden,Stockholm,Sweden,24,24,17,65,Europe
+1912,GBR,Great Britain,Stockholm,Sweden,10,15,16,41,Europe
+1912,FIN,Finland,Stockholm,Sweden,9,8,9,26,Europe
+1912,FRA,France,Stockholm,Sweden,7,5,3,15,Europe
+1912,DEU,Germany,Stockholm,Sweden,6,13,7,26,Europe
+1912,ITA,Italy,Stockholm,Sweden,5,1,2,8,Europe
+1912,ZAF,South Africa,Stockholm,Sweden,4,2,0,6,Africa
+1912,NOR,Norway,Stockholm,Sweden,4,1,5,10,Europe
+1912,CAN,Canada,Stockholm,Sweden,3,2,3,8,North America
+1912,HUN,Hungary,Stockholm,Sweden,3,2,3,8,Europe
+1912,AUS,Australasia,Stockholm,Sweden,2,2,3,7,Oceania
+1912,BEL,Belgium,Stockholm,Sweden,2,1,3,6,Europe
+1912,DNK,Denmark,Stockholm,Sweden,1,6,5,12,Europe
+1912,GRC,Greece,Stockholm,Sweden,1,0,1,2,Europe
+1912,CHE,Switzerland,Stockholm,Sweden,1,0,0,1,Europe
+1912,RUS,Russian Empire,Stockholm,Sweden,0,2,3,5,Europe
+1912,AUT,Austria,Stockholm,Sweden,0,2,2,4,Europe
+1912,NLD,Netherlands,Stockholm,Sweden,0,0,3,3,Europe
+1908,GBR,Great Britain,London,Great Britain,56,51,39,146,Europe
+1908,USA,United States,London,Great Britain,23,12,12,47,North America
+1908,SWE,Sweden,London,Great Britain,8,6,11,25,Europe
+1908,FRA,France,London,Great Britain,5,5,9,19,Europe
+1908,DEU,Germany,London,Great Britain,3,5,5,13,Europe
+1908,HUN,Hungary,London,Great Britain,3,4,2,9,Europe
+1908,CAN,Canada,London,Great Britain,3,3,10,16,North America
+1908,NOR,Norway,London,Great Britain,2,3,3,8,Europe
+1908,ITA,Italy,London,Great Britain,2,2,0,4,Europe
+1908,BEL,Belgium,London,Great Britain,1,5,2,8,Europe
+1908,AUS,Australasia,London,Great Britain,1,2,2,5,Oceania
+1908,RUS,Russian Empire,London,Great Britain,1,2,0,3,Europe
+1908,FIN,Finland,London,Great Britain,1,1,3,5,Europe
+1908,ZAF,South Africa,London,Great Britain,1,1,0,2,Africa
+1908,GRC,Greece,London,Great Britain,0,3,1,4,Europe
+1908,DNK,Denmark,London,Great Britain,0,2,3,5,Europe
+1908,CZE,Bohemia,London,Great Britain,0,0,2,2,Europe
+1908,NLD,Netherlands,London,Great Britain,0,0,2,2,Europe
+1908,AUT,Austria,London,Great Britain,0,0,1,1,Europe
+1904,USA,United States,St. Louis,United States,76,78,77,231,North America
+1904,DEU,Germany,St. Louis,United States,4,5,6,15,Europe
+1904,CAN,Canada,St. Louis,United States,4,1,1,6,North America
+1904,CUB,Cuba,St. Louis,United States,3,0,0,3,North America
+1904,HUN,Hungary,St. Louis,United States,2,1,1,4,Europe
+1904,ZZX,Mixed team,St. Louis,United States,2,1,1,4,Mixed Teams
+1904,NOR,Norway,St. Louis,United States,2,0,0,2,Europe
+1904,AUT,Austria,St. Louis,United States,1,1,1,3,Europe
+1904,GBR,Great Britain,St. Louis,United States,1,1,0,2,Europe
+1904,CHE,Switzerland,St. Louis,United States,1,0,2,3,Europe
+1904,GRC,Greece,St. Louis,United States,1,0,1,2,Europe
+1904,AUS,Australia,St. Louis,United States,0,3,1,4,Oceania
+1904,FRA,France,St. Louis,United States,0,1,0,1,Europe
+1900,FRA,France,Paris,France,27,38,37,102,Europe
+1900,USA,United States,Paris,France,19,14,15,48,North America
+1900,GBR,Great Britain,Paris,France,15,8,9,32,Europe
+1900,ZZX,Mixed team,Paris,France,8,5,6,19,Mixed Teams
+1900,BEL,Belgium,Paris,France,6,7,4,17,Europe
+1900,CHE,Switzerland,Paris,France,6,2,1,9,Europe
+1900,DEU,Germany,Paris,France,4,3,2,9,Europe
+1900,ITA,Italy,Paris,France,3,2,0,5,Europe
+1900,AUS,Australia,Paris,France,2,0,3,5,Oceania
+1900,DNK,Denmark,Paris,France,1,3,2,6,Europe
+1900,HUN,Hungary,Paris,France,1,2,2,5,Europe
+1900,CUB,Cuba,Paris,France,1,1,0,2,North America
+1900,CAN,Canada,Paris,France,1,0,1,2,North America
+1900,ESP,Spain,Paris,France,1,0,0,1,Europe
+1900,LUX,Luxembourg,Paris,France,1,0,0,1,Europe
+1900,AUT,Austria,Paris,France,0,3,3,6,Europe
+1900,NOR,Norway,Paris,France,0,2,3,5,Europe
+1900,NLD,Netherlands,Paris,France,0,2,3,5,Europe
+1900,IND,India,Paris,France,0,2,0,2,Asia
+1900,CZE,Bohemia,Paris,France,0,1,1,2,Europe
+1900,SWE,Sweden,Paris,France,0,0,1,1,Europe
+1896,USA,United States,Athens,Greece,11,7,2,20,North America
+1896,GRC,Greece,Athens,Greece,10,18,19,47,Europe
+1896,DEU,Germany,Athens,Greece,6,5,2,13,Europe
+1896,FRA,France,Athens,Greece,5,4,2,11,Europe
+1896,GBR,Great Britain,Athens,Greece,2,3,2,7,Europe
+1896,HUN,Hungary,Athens,Greece,2,1,3,6,Europe
+1896,AUT,Austria,Athens,Greece,2,1,2,5,Europe
+1896,AUS,Australia,Athens,Greece,2,0,0,2,Oceania
+1896,DNK,Denmark,Athens,Greece,1,2,3,6,Europe
+1896,CHE,Switzerland,Athens,Greece,1,2,0,3,Europe
+1896,ZZX,Mixed team,Athens,Greece,1,0,1,2,Mixed Teams
+1984,USA,United States,Los Angeles,United States,83,61,30,174,North America
+1984,ROU,Romania,Los Angeles,United States,20,16,17,53,Europe
+1984,DEU,West Germany,Los Angeles,United States,17,19,23,59,Europe
+1984,CHN,China,Los Angeles,United States,15,8,9,32,Asia
+1984,ITA,Italy,Los Angeles,United States,14,6,12,32,Europe
+1984,CAN,Canada,Los Angeles,United States,10,18,16,44,North America
+1984,JPN,Japan,Los Angeles,United States,10,8,14,32,Asia
+1984,NZL,New Zealand,Los Angeles,United States,8,1,2,11,Oceania
+1984,YUG,Yugoslavia,Los Angeles,United States,7,4,7,18,Europe
+1984,KOR,South Korea,Los Angeles,United States,6,6,7,19,Asia
+1984,GBR,Great Britain,Los Angeles,United States,5,11,21,37,Europe
+1984,FRA,France,Los Angeles,United States,5,7,16,28,Europe
+1984,NLD,Netherlands,Los Angeles,United States,5,2,6,13,Europe
+1984,AUS,Australia,Los Angeles,United States,4,8,12,24,Oceania
+1984,FIN,Finland,Los Angeles,United States,4,2,6,12,Europe
+1984,SWE,Sweden,Los Angeles,United States,2,11,6,19,Europe
+1984,MEX,Mexico,Los Angeles,United States,2,3,1,6,North America
+1984,MAR,Morocco,Los Angeles,United States,2,0,0,2,Africa
+1984,BRA,Brazil,Los Angeles,United States,1,5,2,8,South America
+1984,ESP,Spain,Los Angeles,United States,1,2,2,5,Europe
+1984,BEL,Belgium,Los Angeles,United States,1,1,2,4,Europe
+1984,AUT,Austria,Los Angeles,United States,1,1,1,3,Europe
+1984,KEN,Kenya,Los Angeles,United States,1,0,2,3,Africa
+1984,PRT,Portugal,Los Angeles,United States,1,0,2,3,Europe
+1984,PAK,Pakistan,Los Angeles,United States,1,0,0,1,Asia
+1984,CHE,Switzerland,Los Angeles,United States,0,4,4,8,Europe
+1984,DNK,Denmark,Los Angeles,United States,0,3,3,6,Europe
+1984,JAM,Jamaica,Los Angeles,United States,0,1,2,3,North America
+1984,NOR,Norway,Los Angeles,United States,0,1,2,3,Europe
+1984,GRC,Greece,Los Angeles,United States,0,1,1,2,Europe
+1984,NGA,Nigeria,Los Angeles,United States,0,1,1,2,Africa
+1984,PRI,Puerto Rico,Los Angeles,United States,0,1,1,2,North America
+1984,COL,Colombia,Los Angeles,United States,0,1,0,1,South America
+1984,EGY,Egypt,Los Angeles,United States,0,1,0,1,Africa
+1984,IRL,Ireland,Los Angeles,United States,0,1,0,1,Europe
+1984,CIV,Ivory Coast,Los Angeles,United States,0,1,0,1,Africa
+1984,PER,Peru,Los Angeles,United States,0,1,0,1,South America
+1984,SYR,Syria,Los Angeles,United States,0,1,0,1,Asia
+1984,THA,Thailand,Los Angeles,United States,0,1,0,1,Asia
+1984,TUR,Turkey,Los Angeles,United States,0,0,3,3,Asia
+1984,VEN,Venezuela,Los Angeles,United States,0,0,3,3,South America
+1984,DZA,Algeria,Los Angeles,United States,0,0,2,2,Africa
+1984,CMR,Cameroon,Los Angeles,United States,0,0,1,1,Africa
+1984,TWN,Chinese Taipei,Los Angeles,United States,0,0,1,1,Asia
+1984,DOM,Dominican Republic,Los Angeles,United States,0,0,1,1,North America
+1984,ISL,Iceland,Los Angeles,United States,0,0,1,1,Europe
+1984,ZMB,Zambia,Los Angeles,United States,0,0,1,1,Africa
+1980,RUS,Soviet Union,Moscow,Soviet Union,80,69,46,195,Europe
+1980,DEU,East Germany,Moscow,Soviet Union,47,37,42,126,Europe
+1980,BGR,Bulgaria,Moscow,Soviet Union,8,16,17,41,Europe
+1980,CUB,Cuba,Moscow,Soviet Union,8,7,5,20,North America
+1980,ITA,Italy,Moscow,Soviet Union,8,3,4,15,Europe
+1980,HUN,Hungary,Moscow,Soviet Union,7,10,15,32,Europe
+1980,ROU,Romania,Moscow,Soviet Union,6,6,13,25,Europe
+1980,FRA,France,Moscow,Soviet Union,6,5,3,14,Europe
+1980,GBR,Great Britain,Moscow,Soviet Union,5,7,9,21,Europe
+1980,POL,Poland,Moscow,Soviet Union,3,14,15,32,Europe
+1980,SWE,Sweden,Moscow,Soviet Union,3,3,6,12,Europe
+1980,FIN,Finland,Moscow,Soviet Union,3,1,4,8,Europe
+1980,CZE,Czechoslovakia,Moscow,Soviet Union,2,3,9,14,Europe
+1980,YUG,Yugoslavia,Moscow,Soviet Union,2,3,4,9,Europe
+1980,AUS,Australia,Moscow,Soviet Union,2,2,5,9,Oceania
+1980,DNK,Denmark,Moscow,Soviet Union,2,1,2,5,Europe
+1980,BRA,Brazil,Moscow,Soviet Union,2,0,2,4,South America
+1980,ETH,Ethiopia,Moscow,Soviet Union,2,0,2,4,Africa
+1980,CHE,Switzerland,Moscow,Soviet Union,2,0,0,2,Europe
+1980,ESP,Spain,Moscow,Soviet Union,1,3,2,6,Europe
+1980,AUT,Austria,Moscow,Soviet Union,1,2,1,4,Europe
+1980,GRC,Greece,Moscow,Soviet Union,1,0,2,3,Europe
+1980,BEL,Belgium,Moscow,Soviet Union,1,0,0,1,Europe
+1980,IND,India,Moscow,Soviet Union,1,0,0,1,Asia
+1980,ZWE,Zimbabwe,Moscow,Soviet Union,1,0,0,1,Africa
+1980,PRK,North Korea,Moscow,Soviet Union,0,3,2,5,Asia
+1980,MNG,Mongolia,Moscow,Soviet Union,0,2,2,4,Asia
+1980,TZA,Tanzania,Moscow,Soviet Union,0,2,0,2,Africa
+1980,MEX,Mexico,Moscow,Soviet Union,0,1,3,4,North America
+1980,NLD,Netherlands,Moscow,Soviet Union,0,1,2,3,Europe
+1980,IRL,Ireland,Moscow,Soviet Union,0,1,1,2,Europe
+1980,UGA,Uganda,Moscow,Soviet Union,0,1,0,1,Africa
+1980,VEN,Venezuela,Moscow,Soviet Union,0,1,0,1,South America
+1980,JAM,Jamaica,Moscow,Soviet Union,0,0,3,3,North America
+1980,GUY,Guyana,Moscow,Soviet Union,0,0,1,1,South America
+1980,LBN,Lebanon,Moscow,Soviet Union,0,0,1,1,Asia
+1976,RUS,Soviet Union,Montreal,Canada,49,41,35,125,Europe
+1976,DEU,East Germany,Montreal,Canada,40,25,25,90,Europe
+1976,USA,United States,Montreal,Canada,34,35,25,94,North America
+1976,DEU,West Germany,Montreal,Canada,10,12,17,39,Europe
+1976,JPN,Japan,Montreal,Canada,9,6,10,25,Asia
+1976,POL,Poland,Montreal,Canada,7,6,13,26,Europe
+1976,BGR,Bulgaria,Montreal,Canada,6,9,7,22,Europe
+1976,CUB,Cuba,Montreal,Canada,6,4,3,13,North America
+1976,ROU,Romania,Montreal,Canada,4,9,14,27,Europe
+1976,HUN,Hungary,Montreal,Canada,4,5,13,22,Europe
+1976,FIN,Finland,Montreal,Canada,4,2,0,6,Europe
+1976,SWE,Sweden,Montreal,Canada,4,1,0,5,Europe
+1976,GBR,Great Britain,Montreal,Canada,3,5,5,13,Europe
+1976,ITA,Italy,Montreal,Canada,2,7,4,13,Europe
+1976,FRA,France,Montreal,Canada,2,3,4,9,Europe
+1976,YUG,Yugoslavia,Montreal,Canada,2,3,3,8,Europe
+1976,CZE,Czechoslovakia,Montreal,Canada,2,2,4,8,Europe
+1976,NZL,New Zealand,Montreal,Canada,2,1,1,4,Oceania
+1976,KOR,South Korea,Montreal,Canada,1,1,4,6,Asia
+1976,CHE,Switzerland,Montreal,Canada,1,1,2,4,Europe
+1976,JAM,Jamaica,Montreal,Canada,1,1,0,2,North America
+1976,PRK,North Korea,Montreal,Canada,1,1,0,2,Asia
+1976,NOR,Norway,Montreal,Canada,1,1,0,2,Europe
+1976,DNK,Denmark,Montreal,Canada,1,0,2,3,Europe
+1976,MEX,Mexico,Montreal,Canada,1,0,1,2,North America
+1976,TTO,Trinidad and Tobago,Montreal,Canada,1,0,0,1,North America
+1976,CAN,Canada,Montreal,Canada,0,5,6,11,North America
+1976,BEL,Belgium,Montreal,Canada,0,3,3,6,Europe
+1976,NLD,Netherlands,Montreal,Canada,0,2,3,5,Europe
+1976,PRT,Portugal,Montreal,Canada,0,2,0,2,Europe
+1976,ESP,Spain,Montreal,Canada,0,2,0,2,Europe
+1976,AUS,Australia,Montreal,Canada,0,1,4,5,Oceania
+1976,IRN,Iran,Montreal,Canada,0,1,1,2,Asia
+1976,MNG,Mongolia,Montreal,Canada,0,1,0,1,Asia
+1976,VEN,Venezuela,Montreal,Canada,0,1,0,1,South America
+1976,BRA,Brazil,Montreal,Canada,0,0,2,2,South America
+1976,AUT,Austria,Montreal,Canada,0,0,1,1,Europe
+1976,BMU,Bermuda,Montreal,Canada,0,0,1,1,North America
+1976,PAK,Pakistan,Montreal,Canada,0,0,1,1,Asia
+1976,PRI,Puerto Rico,Montreal,Canada,0,0,1,1,North America
+1976,THA,Thailand,Montreal,Canada,0,0,1,1,Asia
+1972,RUS,Soviet Union,Munich,West Germany,50,27,22,99,Europe
+1972,USA,United States,Munich,West Germany,33,31,30,94,North America
+1972,DEU,East Germany,Munich,West Germany,20,23,23,66,Europe
+1972,DEU,West Germany,Munich,West Germany,13,11,16,40,Europe
+1972,JPN,Japan,Munich,West Germany,13,8,8,29,Asia
+1972,AUS,Australia,Munich,West Germany,8,7,2,17,Oceania
+1972,POL,Poland,Munich,West Germany,7,5,9,21,Europe
+1972,HUN,Hungary,Munich,West Germany,6,13,16,35,Europe
+1972,BGR,Bulgaria,Munich,West Germany,6,10,5,21,Europe
+1972,ITA,Italy,Munich,West Germany,5,3,10,18,Europe
+1972,SWE,Sweden,Munich,West Germany,4,6,6,16,Europe
+1972,GBR,Great Britain,Munich,West Germany,4,5,9,18,Europe
+1972,ROU,Romania,Munich,West Germany,3,6,7,16,Europe
+1972,CUB,Cuba,Munich,West Germany,3,1,4,8,North America
+1972,FIN,Finland,Munich,West Germany,3,1,4,8,Europe
+1972,NLD,Netherlands,Munich,West Germany,3,1,1,5,Europe
+1972,FRA,France,Munich,West Germany,2,4,7,13,Europe
+1972,CZE,Czechoslovakia,Munich,West Germany,2,4,2,8,Europe
+1972,KEN,Kenya,Munich,West Germany,2,3,4,9,Africa
+1972,YUG,Yugoslavia,Munich,West Germany,2,1,2,5,Europe
+1972,NOR,Norway,Munich,West Germany,2,1,1,4,Europe
+1972,PRK,North Korea,Munich,West Germany,1,1,3,5,Asia
+1972,NZL,New Zealand,Munich,West Germany,1,1,1,3,Oceania
+1972,UGA,Uganda,Munich,West Germany,1,1,0,2,Africa
+1972,DNK,Denmark,Munich,West Germany,1,0,0,1,Europe
+1972,CHE,Switzerland,Munich,West Germany,0,3,0,3,Europe
+1972,CAN,Canada,Munich,West Germany,0,2,3,5,North America
+1972,IRN,Iran,Munich,West Germany,0,2,1,3,Asia
+1972,BEL,Belgium,Munich,West Germany,0,2,0,2,Europe
+1972,GRC,Greece,Munich,West Germany,0,2,0,2,Europe
+1972,AUT,Austria,Munich,West Germany,0,1,2,3,Europe
+1972,COL,Colombia,Munich,West Germany,0,1,2,3,South America
+1972,ARG,Argentina,Munich,West Germany,0,1,0,1,South America
+1972,LBN,Lebanon,Munich,West Germany,0,1,0,1,Asia
+1972,MEX,Mexico,Munich,West Germany,0,1,0,1,North America
+1972,MNG,Mongolia,Munich,West Germany,0,1,0,1,Asia
+1972,PAK,Pakistan,Munich,West Germany,0,1,0,1,Asia
+1972,KOR,South Korea,Munich,West Germany,0,1,0,1,Asia
+1972,TUN,Tunisia,Munich,West Germany,0,1,0,1,Africa
+1972,TUR,Turkey,Munich,West Germany,0,1,0,1,Asia
+1972,BRA,Brazil,Munich,West Germany,0,0,2,2,South America
+1972,ETH,Ethiopia,Munich,West Germany,0,0,2,2,Africa
+1972,GHA,Ghana,Munich,West Germany,0,0,1,1,Africa
+1972,IND,India,Munich,West Germany,0,0,1,1,Asia
+1972,JAM,Jamaica,Munich,West Germany,0,0,1,1,North America
+1972,NER,Niger,Munich,West Germany,0,0,1,1,Africa
+1972,NGA,Nigeria,Munich,West Germany,0,0,1,1,Africa
+1972,ESP,Spain,Munich,West Germany,0,0,1,1,Europe
+1968,USA,United States,Mexico City,Mexico,45,28,34,107,North America
+1968,RUS,Soviet Union,Mexico City,Mexico,29,32,30,91,Europe
+1968,JPN,Japan,Mexico City,Mexico,11,7,7,25,Asia
+1968,HUN,Hungary,Mexico City,Mexico,10,10,12,32,Europe
+1968,DEU,East Germany,Mexico City,Mexico,9,9,7,25,Europe
+1968,FRA,France,Mexico City,Mexico,7,3,5,15,Europe
+1968,CZE,Czechoslovakia,Mexico City,Mexico,7,2,4,13,Europe
+1968,DEU,West Germany,Mexico City,Mexico,5,11,10,26,Europe
+1968,AUS,Australia,Mexico City,Mexico,5,7,5,17,Oceania
+1968,GBR,Great Britain,Mexico City,Mexico,5,5,3,13,Europe
+1968,POL,Poland,Mexico City,Mexico,5,2,11,18,Europe
+1968,ROU,Romania,Mexico City,Mexico,4,6,5,15,Europe
+1968,ITA,Italy,Mexico City,Mexico,3,4,9,16,Europe
+1968,KEN,Kenya,Mexico City,Mexico,3,4,2,9,Africa
+1968,MEX,Mexico,Mexico City,Mexico,3,3,3,9,North America
+1968,YUG,Yugoslavia,Mexico City,Mexico,3,3,2,8,Europe
+1968,NLD,Netherlands,Mexico City,Mexico,3,3,1,7,Europe
+1968,BGR,Bulgaria,Mexico City,Mexico,2,4,3,9,Europe
+1968,IRN,Iran,Mexico City,Mexico,2,1,2,5,Asia
+1968,SWE,Sweden,Mexico City,Mexico,2,1,1,4,Europe
+1968,TUR,Turkey,Mexico City,Mexico,2,0,0,2,Asia
+1968,DNK,Denmark,Mexico City,Mexico,1,4,3,8,Europe
+1968,CAN,Canada,Mexico City,Mexico,1,3,1,5,North America
+1968,FIN,Finland,Mexico City,Mexico,1,2,1,4,Europe
+1968,ETH,Ethiopia,Mexico City,Mexico,1,1,0,2,Africa
+1968,NOR,Norway,Mexico City,Mexico,1,1,0,2,Europe
+1968,NZL,New Zealand,Mexico City,Mexico,1,0,2,3,Oceania
+1968,TUN,Tunisia,Mexico City,Mexico,1,0,1,2,Africa
+1968,PAK,Pakistan,Mexico City,Mexico,1,0,0,1,Asia
+1968,VEN,Venezuela,Mexico City,Mexico,1,0,0,1,South America
+1968,CUB,Cuba,Mexico City,Mexico,0,4,0,4,North America
+1968,AUT,Austria,Mexico City,Mexico,0,2,2,4,Europe
+1968,CHE,Switzerland,Mexico City,Mexico,0,1,4,5,Europe
+1968,MNG,Mongolia,Mexico City,Mexico,0,1,3,4,Asia
+1968,BRA,Brazil,Mexico City,Mexico,0,1,2,3,South America
+1968,BEL,Belgium,Mexico City,Mexico,0,1,1,2,Europe
+1968,KOR,South Korea,Mexico City,Mexico,0,1,1,2,Asia
+1968,UGA,Uganda,Mexico City,Mexico,0,1,1,2,Africa
+1968,CMR,Cameroon,Mexico City,Mexico,0,1,0,1,Africa
+1968,JAM,Jamaica,Mexico City,Mexico,0,1,0,1,North America
+1968,ARG,Argentina,Mexico City,Mexico,0,0,2,2,South America
+1968,GRC,Greece,Mexico City,Mexico,0,0,1,1,Europe
+1968,IND,India,Mexico City,Mexico,0,0,1,1,Asia
+1968,CHN,Republic of China,Mexico City,Mexico,0,0,1,1,Asia
+1964,USA,United States,Tokyo,Japan,36,26,28,90,North America
+1964,RUS,Soviet Union,Tokyo,Japan,30,31,35,96,Europe
+1964,JPN,Japan,Tokyo,Japan,16,5,8,29,Asia
+1964,DEU,United Team of Germany,Tokyo,Japan,10,22,18,50,Europe
+1964,ITA,Italy,Tokyo,Japan,10,10,7,27,Europe
+1964,HUN,Hungary,Tokyo,Japan,10,7,5,22,Europe
+1964,POL,Poland,Tokyo,Japan,7,6,10,23,Europe
+1964,AUS,Australia,Tokyo,Japan,6,2,10,18,Oceania
+1964,CZE,Czechoslovakia,Tokyo,Japan,5,6,3,14,Europe
+1964,GBR,Great Britain,Tokyo,Japan,4,12,2,18,Europe
+1964,BGR,Bulgaria,Tokyo,Japan,3,5,2,10,Europe
+1964,FIN,Finland,Tokyo,Japan,3,0,2,5,Europe
+1964,NZL,New Zealand,Tokyo,Japan,3,0,2,5,Oceania
+1964,ROU,Romania,Tokyo,Japan,2,4,6,12,Europe
+1964,NLD,Netherlands,Tokyo,Japan,2,4,4,10,Europe
+1964,TUR,Turkey,Tokyo,Japan,2,3,1,6,Asia
+1964,SWE,Sweden,Tokyo,Japan,2,2,4,8,Europe
+1964,DNK,Denmark,Tokyo,Japan,2,1,3,6,Europe
+1964,YUG,Yugoslavia,Tokyo,Japan,2,1,2,5,Europe
+1964,BEL,Belgium,Tokyo,Japan,2,0,1,3,Europe
+1964,FRA,France,Tokyo,Japan,1,8,6,15,Europe
+1964,CAN,Canada,Tokyo,Japan,1,2,1,4,North America
+1964,CHE,Switzerland,Tokyo,Japan,1,2,1,4,Europe
+1964,BHS,Bahamas,Tokyo,Japan,1,0,0,1,North America
+1964,ETH,Ethiopia,Tokyo,Japan,1,0,0,1,Africa
+1964,IND,India,Tokyo,Japan,1,0,0,1,Asia
+1964,KOR,South Korea,Tokyo,Japan,0,2,1,3,Asia
+1964,TTO,Trinidad and Tobago,Tokyo,Japan,0,1,2,3,North America
+1964,TUN,Tunisia,Tokyo,Japan,0,1,1,2,Africa
+1964,ARG,Argentina,Tokyo,Japan,0,1,0,1,South America
+1964,CUB,Cuba,Tokyo,Japan,0,1,0,1,North America
+1964,PAK,Pakistan,Tokyo,Japan,0,1,0,1,Asia
+1964,PHL,Philippines,Tokyo,Japan,0,1,0,1,Asia
+1964,IRN,Iran,Tokyo,Japan,0,0,2,2,Asia
+1964,BRA,Brazil,Tokyo,Japan,0,0,1,1,South America
+1964,GHA,Ghana,Tokyo,Japan,0,0,1,1,Africa
+1964,IRL,Ireland,Tokyo,Japan,0,0,1,1,Europe
+1964,KEN,Kenya,Tokyo,Japan,0,0,1,1,Africa
+1964,MEX,Mexico,Tokyo,Japan,0,0,1,1,North America
+1964,NGA,Nigeria,Tokyo,Japan,0,0,1,1,Africa
+1964,URY,Uruguay,Tokyo,Japan,0,0,1,1,South America
+1960,RUS,Soviet Union,Rome,Italy,43,29,31,103,Europe
+1960,USA,United States,Rome,Italy,34,21,16,71,North America
+1960,ITA,Italy,Rome,Italy,13,10,13,36,Europe
+1960,DEU,United Team of Germany,Rome,Italy,12,19,11,42,Europe
+1960,AUS,Australia,Rome,Italy,8,8,6,22,Oceania
+1960,TUR,Turkey,Rome,Italy,7,2,0,9,Asia
+1960,HUN,Hungary,Rome,Italy,6,8,7,21,Europe
+1960,JPN,Japan,Rome,Italy,4,7,7,18,Asia
+1960,POL,Poland,Rome,Italy,4,6,11,21,Europe
+1960,CZE,Czechoslovakia,Rome,Italy,3,2,3,8,Europe
+1960,ROU,Romania,Rome,Italy,3,1,6,10,Europe
+1960,GBR,Great Britain,Rome,Italy,2,6,12,20,Europe
+1960,DNK,Denmark,Rome,Italy,2,3,1,6,Europe
+1960,NZL,New Zealand,Rome,Italy,2,0,1,3,Oceania
+1960,BGR,Bulgaria,Rome,Italy,1,3,3,7,Europe
+1960,SWE,Sweden,Rome,Italy,1,2,3,6,Europe
+1960,FIN,Finland,Rome,Italy,1,1,3,5,Europe
+1960,AUT,Austria,Rome,Italy,1,1,0,2,Europe
+1960,YUG,Yugoslavia,Rome,Italy,1,1,0,2,Europe
+1960,PAK,Pakistan,Rome,Italy,1,0,1,2,Asia
+1960,ETH,Ethiopia,Rome,Italy,1,0,0,1,Africa
+1960,GRC,Greece,Rome,Italy,1,0,0,1,Europe
+1960,NOR,Norway,Rome,Italy,1,0,0,1,Europe
+1960,CHE,Switzerland,Rome,Italy,0,3,3,6,Europe
+1960,FRA,France,Rome,Italy,0,2,3,5,Europe
+1960,BEL,Belgium,Rome,Italy,0,2,2,4,Europe
+1960,IRN,Iran,Rome,Italy,0,1,3,4,Asia
+1960,NLD,Netherlands,Rome,Italy,0,1,2,3,Europe
+1960,ZAF,South Africa,Rome,Italy,0,1,2,3,Africa
+1960,ARG,Argentina,Rome,Italy,0,1,1,2,South America
+1960,EGY,Egypt,Rome,Italy,0,1,1,2,Africa
+1960,CAN,Canada,Rome,Italy,0,1,0,1,North America
+1960,GHA,Ghana,Rome,Italy,0,1,0,1,Africa
+1960,IND,India,Rome,Italy,0,1,0,1,Asia
+1960,MAR,Morocco,Rome,Italy,0,1,0,1,Africa
+1960,PRT,Portugal,Rome,Italy,0,1,0,1,Europe
+1960,CHN,Republic of China,Rome,Italy,0,1,0,1,Asia
+1960,SGP,Singapore,Rome,Italy,0,1,0,1,Asia
+1960,BRA,Brazil,Rome,Italy,0,0,2,2,South America
+1960,BWI,British West Indies,Rome,Italy,0,0,2,2,South America
+1960,IRQ,Iraq,Rome,Italy,0,0,1,1,Asia
+1960,MEX,Mexico,Rome,Italy,0,0,1,1,North America
+1960,ESP,Spain,Rome,Italy,0,0,1,1,Europe
+1960,VEN,Venezuela,Rome,Italy,0,0,1,1,South America
+2020,USA,United States,Tokyo,Japan,39,41,33,113,North America
+2020,CHN,China,Tokyo,Japan,38,32,18,88,Asia
+2020,JPN,Japan,Tokyo,Japan,27,14,17,58,Asia
+2020,GBR,Great Britain,Tokyo,Japan,22,21,22,65,Europe
+2020,RUS,ROC,Tokyo,Japan,20,28,23,71,Europe
+2020,AUS,Australia,Tokyo,Japan,17,7,22,46,Oceania
+2020,NLD,Netherlands,Tokyo,Japan,10,12,14,36,Europe
+2020,FRA,France,Tokyo,Japan,10,12,11,33,Europe
+2020,DEU,Germany,Tokyo,Japan,10,11,16,37,Europe
+2020,ITA,Italy,Tokyo,Japan,10,10,20,40,Europe
+2020,CAN,Canada,Tokyo,Japan,7,6,11,24,North America
+2020,BRA,Brazil,Tokyo,Japan,7,6,8,21,South America
+2020,NZL,New Zealand,Tokyo,Japan,7,6,7,20,Oceania
+2020,CUB,Cuba,Tokyo,Japan,7,3,5,15,North America
+2020,HUN,Hungary,Tokyo,Japan,6,7,7,20,Europe
+2020,KOR,South Korea,Tokyo,Japan,6,4,10,20,Asia
+2020,POL,Poland,Tokyo,Japan,4,5,5,14,Europe
+2020,CZE,Czech Republic,Tokyo,Japan,4,4,3,11,Europe
+2020,KEN,Kenya,Tokyo,Japan,4,4,2,10,Africa
+2020,NOR,Norway,Tokyo,Japan,4,2,2,8,Europe
+2020,JAM,Jamaica,Tokyo,Japan,4,1,4,9,North America
+2020,ESP,Spain,Tokyo,Japan,3,8,6,17,Europe
+2020,SWE,Sweden,Tokyo,Japan,3,6,0,9,Europe
+2020,CHE,Switzerland,Tokyo,Japan,3,4,6,13,Europe
+2020,DNK,Denmark,Tokyo,Japan,3,4,4,11,Europe
+2020,HRV,Croatia,Tokyo,Japan,3,3,2,8,Europe
+2020,IRN,Iran,Tokyo,Japan,3,2,2,7,Asia
+2020,SRB,Serbia,Tokyo,Japan,3,1,5,9,Europe
+2020,BEL,Belgium,Tokyo,Japan,3,1,3,7,Europe
+2020,BGR,Bulgaria,Tokyo,Japan,3,1,2,6,Europe
+2020,SVN,Slovenia,Tokyo,Japan,3,1,1,5,Europe
+2020,UZB,Uzbekistan,Tokyo,Japan,3,0,2,5,Asia
+2020,GEO,Georgia,Tokyo,Japan,2,5,1,8,Asia
+2020,TWN,Chinese Taipei,Tokyo,Japan,2,4,6,12,Asia
+2020,TUR,Turkey,Tokyo,Japan,2,2,9,13,Asia
+2020,GRC,Greece,Tokyo,Japan,2,1,1,4,Europe
+2020,UGA,Uganda,Tokyo,Japan,2,1,1,4,Africa
+2020,ECU,Ecuador,Tokyo,Japan,2,1,0,3,South America
+2020,IRL,Ireland,Tokyo,Japan,2,0,2,4,Europe
+2020,ISR,Israel,Tokyo,Japan,2,0,2,4,Asia
+2020,QAT,Qatar,Tokyo,Japan,2,0,1,3,Asia
+2020,BHS,Bahamas,Tokyo,Japan,2,0,0,2,North America
+2020,KOS,Kosovo,Tokyo,Japan,2,0,0,2,Europe
+2020,UKR,Ukraine,Tokyo,Japan,1,6,12,19,Europe
+2020,BLR,Belarus,Tokyo,Japan,1,3,3,7,Europe
+2020,ROU,Romania,Tokyo,Japan,1,3,0,4,Europe
+2020,VEN,Venezuela,Tokyo,Japan,1,3,0,4,South America
+2020,IND,India,Tokyo,Japan,1,2,4,7,Asia
+2020,HKG,Hong Kong,Tokyo,Japan,1,2,3,6,Asia
+2020,PHL,Philippines,Tokyo,Japan,1,2,1,4,Asia
+2020,SVK,Slovakia,Tokyo,Japan,1,2,1,4,Europe
+2020,ZAF,South Africa,Tokyo,Japan,1,2,0,3,Africa
+2020,AUT,Austria,Tokyo,Japan,1,1,5,7,Europe
+2020,EGY,Egypt,Tokyo,Japan,1,1,4,6,Africa
+2020,IDN,Indonesia,Tokyo,Japan,1,1,3,5,Asia
+2020,ETH,Ethiopia,Tokyo,Japan,1,1,2,4,Africa
+2020,PRT,Portugal,Tokyo,Japan,1,1,2,4,Europe
+2020,TUN,Tunisia,Tokyo,Japan,1,1,0,2,Africa
+2020,EST,Estonia,Tokyo,Japan,1,0,1,2,Europe
+2020,FJI,Fiji,Tokyo,Japan,1,0,1,2,Oceania
+2020,LVA,Latvia,Tokyo,Japan,1,0,1,2,Europe
+2020,THA,Thailand,Tokyo,Japan,1,0,1,2,Asia
+2020,BMU,Bermuda,Tokyo,Japan,1,0,0,1,North America
+2020,MAR,Morocco,Tokyo,Japan,1,0,0,1,Africa
+2020,PRI,Puerto Rico,Tokyo,Japan,1,0,0,1,North America
+2020,COL,Colombia,Tokyo,Japan,0,4,1,5,South America
+2020,AZE,Azerbaijan,Tokyo,Japan,0,3,4,7,Asia
+2020,DOM,Dominican Republic,Tokyo,Japan,0,3,2,5,North America
+2020,ARM,Armenia,Tokyo,Japan,0,2,2,4,Asia
+2020,KGZ,Kyrgyzstan,Tokyo,Japan,0,2,1,3,Asia
+2020,MNG,Mongolia,Tokyo,Japan,0,1,3,4,Asia
+2020,ARG,Argentina,Tokyo,Japan,0,1,2,3,South America
+2020,SMR,San Marino,Tokyo,Japan,0,1,2,3,Europe
+2020,JOR,Jordan,Tokyo,Japan,0,1,1,2,Asia
+2020,MYS,Malaysia,Tokyo,Japan,0,1,1,2,Asia
+2020,NGA,Nigeria,Tokyo,Japan,0,1,1,2,Africa
+2020,BRN,Bahrain,Tokyo,Japan,0,1,0,1,Asia
+2020,LTU,Lithuania,Tokyo,Japan,0,1,0,1,Europe
+2020,NAM,Namibia,Tokyo,Japan,0,1,0,1,Africa
+2020,MKD,North Macedonia,Tokyo,Japan,0,1,0,1,Europe
+2020,SAU,Saudi Arabia,Tokyo,Japan,0,1,0,1,Asia
+2020,TKM,Turkmenistan,Tokyo,Japan,0,1,0,1,Asia
+2020,KAZ,Kazakhstan,Tokyo,Japan,0,0,8,8,Asia
+2020,MEX,Mexico,Tokyo,Japan,0,0,4,4,North America
+2020,FIN,Finland,Tokyo,Japan,0,0,2,2,Europe
+2020,BWA,Botswana,Tokyo,Japan,0,0,1,1,Africa
+2020,BFA,Burkina Faso,Tokyo,Japan,0,0,1,1,Africa
+2020,GHA,Ghana,Tokyo,Japan,0,0,1,1,Africa
+2020,GRD,Grenada,Tokyo,Japan,0,0,1,1,North America
+2020,CIV,Ivory Coast,Tokyo,Japan,0,0,1,1,Africa
+2020,KWT,Kuwait,Tokyo,Japan,0,0,1,1,Asia
+2020,MDA,Moldova,Tokyo,Japan,0,0,1,1,Europe
+2020,SYR,Syria,Tokyo,Japan,0,0,1,1,Asia
+2016,USA,United States,Rio de Janeiro,Brazil,46,37,38,121,North America
+2016,GBR,Great Britain,Rio de Janeiro,Brazil,27,23,17,67,Europe
+2016,CHN,China,Rio de Janeiro,Brazil,26,18,26,70,Asia
+2016,RUS,Russia,Rio de Janeiro,Brazil,19,17,20,56,Europe
+2016,DEU,Germany,Rio de Janeiro,Brazil,17,10,15,42,Europe
+2016,JPN,Japan,Rio de Janeiro,Brazil,12,8,21,41,Asia
+2016,FRA,France,Rio de Janeiro,Brazil,10,18,14,42,Europe
+2016,KOR,South Korea,Rio de Janeiro,Brazil,9,3,9,21,Asia
+2016,ITA,Italy,Rio de Janeiro,Brazil,8,12,8,28,Europe
+2016,AUS,Australia,Rio de Janeiro,Brazil,8,11,10,29,Oceania
+2016,NLD,Netherlands,Rio de Janeiro,Brazil,8,7,4,19,Europe
+2016,HUN,Hungary,Rio de Janeiro,Brazil,8,3,4,15,Europe
+2016,BRA,Brazil,Rio de Janeiro,Brazil,7,6,6,19,South America
+2016,ESP,Spain,Rio de Janeiro,Brazil,7,4,6,17,Europe
+2016,KEN,Kenya,Rio de Janeiro,Brazil,6,6,1,13,Africa
+2016,JAM,Jamaica,Rio de Janeiro,Brazil,6,3,2,11,North America
+2016,HRV,Croatia,Rio de Janeiro,Brazil,5,3,2,10,Europe
+2016,CUB,Cuba,Rio de Janeiro,Brazil,5,2,4,11,North America
+2016,NZL,New Zealand,Rio de Janeiro,Brazil,4,9,5,18,Oceania
+2016,CAN,Canada,Rio de Janeiro,Brazil,4,3,15,22,North America
+2016,UZB,Uzbekistan,Rio de Janeiro,Brazil,4,2,7,13,Asia
+2016,KAZ,Kazakhstan,Rio de Janeiro,Brazil,3,5,10,18,Asia
+2016,COL,Colombia,Rio de Janeiro,Brazil,3,2,3,8,South America
+2016,CHE,Switzerland,Rio de Janeiro,Brazil,3,2,2,7,Europe
+2016,IRN,Iran,Rio de Janeiro,Brazil,3,1,4,8,Asia
+2016,GRC,Greece,Rio de Janeiro,Brazil,3,1,2,6,Europe
+2016,ARG,Argentina,Rio de Janeiro,Brazil,3,1,0,4,South America
+2016,DNK,Denmark,Rio de Janeiro,Brazil,2,6,7,15,Europe
+2016,SWE,Sweden,Rio de Janeiro,Brazil,2,6,3,11,Europe
+2016,ZAF,South Africa,Rio de Janeiro,Brazil,2,6,2,10,Africa
+2016,UKR,Ukraine,Rio de Janeiro,Brazil,2,5,4,11,Europe
+2016,SRB,Serbia,Rio de Janeiro,Brazil,2,4,2,8,Europe
+2016,POL,Poland,Rio de Janeiro,Brazil,2,3,6,11,Europe
+2016,PRK,North Korea,Rio de Janeiro,Brazil,2,3,2,7,Asia
+2016,BEL,Belgium,Rio de Janeiro,Brazil,2,2,2,6,Europe
+2016,THA,Thailand,Rio de Janeiro,Brazil,2,2,2,6,Asia
+2016,SVK,Slovakia,Rio de Janeiro,Brazil,2,2,0,4,Europe
+2016,GEO,Georgia,Rio de Janeiro,Brazil,2,1,4,7,Asia
+2016,AZE,Azerbaijan,Rio de Janeiro,Brazil,1,7,10,18,Asia
+2016,BLR,Belarus,Rio de Janeiro,Brazil,1,4,4,9,Europe
+2016,TUR,Turkey,Rio de Janeiro,Brazil,1,3,4,8,Asia
+2016,ARM,Armenia,Rio de Janeiro,Brazil,1,3,0,4,Asia
+2016,CZE,Czech Republic,Rio de Janeiro,Brazil,1,2,7,10,Europe
+2016,ETH,Ethiopia,Rio de Janeiro,Brazil,1,2,5,8,Africa
+2016,SVN,Slovenia,Rio de Janeiro,Brazil,1,2,1,4,Europe
+2016,IDN,Indonesia,Rio de Janeiro,Brazil,1,2,0,3,Asia
+2016,ROU,Romania,Rio de Janeiro,Brazil,1,1,2,4,Europe
+2016,BRN,Bahrain,Rio de Janeiro,Brazil,1,1,0,2,Asia
+2016,VNM,Vietnam,Rio de Janeiro,Brazil,1,1,0,2,Asia
+2016,TWN,Chinese Taipei,Rio de Janeiro,Brazil,1,0,2,3,Asia
+2016,BHS,Bahamas,Rio de Janeiro,Brazil,1,0,1,2,North America
+2016,,Independent Olympic Athletes,Rio de Janeiro,Brazil,1,0,1,2,Independent
+2016,CIV,Ivory Coast,Rio de Janeiro,Brazil,1,0,1,2,Africa
+2016,FJI,Fiji,Rio de Janeiro,Brazil,1,0,0,1,Oceania
+2016,JOR,Jordan,Rio de Janeiro,Brazil,1,0,0,1,Asia
+2016,KOS,Kosovo,Rio de Janeiro,Brazil,1,0,0,1,Europe
+2016,PRI,Puerto Rico,Rio de Janeiro,Brazil,1,0,0,1,North America
+2016,SGP,Singapore,Rio de Janeiro,Brazil,1,0,0,1,Asia
+2016,TJK,Tajikistan,Rio de Janeiro,Brazil,1,0,0,1,Asia
+2016,MYS,Malaysia,Rio de Janeiro,Brazil,0,4,1,5,Asia
+2016,MEX,Mexico,Rio de Janeiro,Brazil,0,3,2,5,North America
+2016,VEN,Venezuela,Rio de Janeiro,Brazil,0,2,1,3,South America
+2016,DZA,Algeria,Rio de Janeiro,Brazil,0,2,0,2,Africa
+2016,IRL,Ireland,Rio de Janeiro,Brazil,0,2,0,2,Europe
+2016,LTU,Lithuania,Rio de Janeiro,Brazil,0,1,3,4,Europe
+2016,BGR,Bulgaria,Rio de Janeiro,Brazil,0,1,2,3,Europe
+2016,IND,India,Rio de Janeiro,Brazil,0,1,1,2,Asia
+2016,MNG,Mongolia,Rio de Janeiro,Brazil,0,1,1,2,Asia
+2016,BDI,Burundi,Rio de Janeiro,Brazil,0,1,0,1,Africa
+2016,GRD,Grenada,Rio de Janeiro,Brazil,0,1,0,1,North America
+2016,NER,Niger,Rio de Janeiro,Brazil,0,1,0,1,Africa
+2016,PHL,Philippines,Rio de Janeiro,Brazil,0,1,0,1,Asia
+2016,QAT,Qatar,Rio de Janeiro,Brazil,0,1,0,1,Asia
+2016,NOR,Norway,Rio de Janeiro,Brazil,0,0,4,4,Europe
+2016,EGY,Egypt,Rio de Janeiro,Brazil,0,0,3,3,Africa
+2016,TUN,Tunisia,Rio de Janeiro,Brazil,0,0,3,3,Africa
+2016,ISR,Israel,Rio de Janeiro,Brazil,0,0,2,2,Asia
+2016,AUT,Austria,Rio de Janeiro,Brazil,0,0,1,1,Europe
+2016,DOM,Dominican Republic,Rio de Janeiro,Brazil,0,0,1,1,North America
+2016,EST,Estonia,Rio de Janeiro,Brazil,0,0,1,1,Europe
+2016,FIN,Finland,Rio de Janeiro,Brazil,0,0,1,1,Europe
+2016,MAR,Morocco,Rio de Janeiro,Brazil,0,0,1,1,Africa
+2016,NGA,Nigeria,Rio de Janeiro,Brazil,0,0,1,1,Africa
+2016,PRT,Portugal,Rio de Janeiro,Brazil,0,0,1,1,Europe
+2016,TTO,Trinidad and Tobago,Rio de Janeiro,Brazil,0,0,1,1,North America
+2016,ARE,United Arab Emirates,Rio de Janeiro,Brazil,0,0,1,1,Asia
+2012,USA,United States,London,Great Britain,46,28,30,104,North America
+2012,CHN,China,London,Great Britain,38,31,22,91,Asia
+2012,GBR,Great Britain,London,Great Britain,29,17,19,65,Europe
+2012,RUS,Russia,London,Great Britain,20,20,28,68,Europe
+2012,KOR,South Korea,London,Great Britain,13,9,8,30,Asia
+2012,DEU,Germany,London,Great Britain,11,20,13,44,Europe
+2012,FRA,France,London,Great Britain,11,11,13,35,Europe
+2012,AUS,Australia,London,Great Britain,8,15,12,35,Oceania
+2012,ITA,Italy,London,Great Britain,8,9,11,28,Europe
+2012,HUN,Hungary,London,Great Britain,8,4,6,18,Europe
+2012,JPN,Japan,London,Great Britain,7,14,17,38,Asia
+2012,IRN,Iran,London,Great Britain,7,5,1,13,Asia
+2012,NLD,Netherlands,London,Great Britain,6,6,8,20,Europe
+2012,NZL,New Zealand,London,Great Britain,6,2,5,13,Oceania
+2012,UKR,Ukraine,London,Great Britain,5,4,10,19,Europe
+2012,CUB,Cuba,London,Great Britain,5,3,7,15,North America
+2012,ESP,Spain,London,Great Britain,4,10,5,19,Europe
+2012,JAM,Jamaica,London,Great Britain,4,5,3,12,North America
+2012,CZE,Czech Republic,London,Great Britain,4,3,4,11,Europe
+2012,ZAF,South Africa,London,Great Britain,4,1,1,6,Africa
+2012,PRK,North Korea,London,Great Britain,4,0,3,7,Asia
+2012,BRA,Brazil,London,Great Britain,3,5,9,17,South America
+2012,POL,Poland,London,Great Britain,3,2,6,11,Europe
+2012,ETH,Ethiopia,London,Great Britain,3,2,3,8,Africa
+2012,KAZ,Kazakhstan,London,Great Britain,3,1,7,11,Asia
+2012,HRV,Croatia,London,Great Britain,3,1,2,6,Europe
+2012,CAN,Canada,London,Great Britain,2,6,10,18,North America
+2012,BLR,Belarus,London,Great Britain,2,5,3,10,Europe
+2012,KEN,Kenya,London,Great Britain,2,4,7,13,Africa
+2012,DNK,Denmark,London,Great Britain,2,4,3,9,Europe
+2012,ROU,Romania,London,Great Britain,2,4,1,7,Europe
+2012,AZE,Azerbaijan,London,Great Britain,2,2,5,9,Asia
+2012,CHE,Switzerland,London,Great Britain,2,2,0,4,Europe
+2012,NOR,Norway,London,Great Britain,2,1,1,4,Europe
+2012,LTU,Lithuania,London,Great Britain,2,0,3,5,Europe
+2012,TUN,Tunisia,London,Great Britain,2,0,1,3,Africa
+2012,SWE,Sweden,London,Great Britain,1,4,3,8,Europe
+2012,COL,Colombia,London,Great Britain,1,3,5,9,South America
+2012,MEX,Mexico,London,Great Britain,1,3,4,8,North America
+2012,GEO,Georgia,London,Great Britain,1,2,3,6,Asia
+2012,IRL,Ireland,London,Great Britain,1,1,4,6,Europe
+2012,ARG,Argentina,London,Great Britain,1,1,2,4,South America
+2012,SRB,Serbia,London,Great Britain,1,1,2,4,Europe
+2012,SVN,Slovenia,London,Great Britain,1,1,2,4,Europe
+2012,TTO,Trinidad and Tobago,London,Great Britain,1,1,2,4,North America
+2012,TUR,Turkey,London,Great Britain,1,1,1,3,Asia
+2012,DOM,Dominican Republic,London,Great Britain,1,1,0,2,North America
+2012,TWN,Chinese Taipei,London,Great Britain,1,0,1,2,Asia
+2012,LVA,Latvia,London,Great Britain,1,0,1,2,Europe
+2012,DZA,Algeria,London,Great Britain,1,0,0,1,Africa
+2012,BHS,Bahamas,London,Great Britain,1,0,0,1,North America
+2012,BRN,Bahrain,London,Great Britain,1,0,0,1,Asia
+2012,GRD,Grenada,London,Great Britain,1,0,0,1,North America
+2012,UGA,Uganda,London,Great Britain,1,0,0,1,Africa
+2012,VEN,Venezuela,London,Great Britain,1,0,0,1,South America
+2012,EGY,Egypt,London,Great Britain,0,3,1,4,Africa
+2012,IND,India,London,Great Britain,0,2,4,6,Asia
+2012,MNG,Mongolia,London,Great Britain,0,2,3,5,Asia
+2012,THA,Thailand,London,Great Britain,0,2,2,4,Asia
+2012,BGR,Bulgaria,London,Great Britain,0,2,1,3,Europe
+2012,FIN,Finland,London,Great Britain,0,2,1,3,Europe
+2012,IDN,Indonesia,London,Great Britain,0,2,1,3,Asia
+2012,SVK,Slovakia,London,Great Britain,0,1,3,4,Europe
+2012,BEL,Belgium,London,Great Britain,0,1,2,3,Europe
+2012,ARM,Armenia,London,Great Britain,0,1,1,2,Asia
+2012,EST,Estonia,London,Great Britain,0,1,1,2,Europe
+2012,MYS,Malaysia,London,Great Britain,0,1,1,2,Asia
+2012,PRI,Puerto Rico,London,Great Britain,0,1,1,2,North America
+2012,BWA,Botswana,London,Great Britain,0,1,0,1,Africa
+2012,CYP,Cyprus,London,Great Britain,0,1,0,1,Asia
+2012,GAB,Gabon,London,Great Britain,0,1,0,1,Africa
+2012,GTM,Guatemala,London,Great Britain,0,1,0,1,North America
+2012,MNE,Montenegro,London,Great Britain,0,1,0,1,Europe
+2012,PRT,Portugal,London,Great Britain,0,1,0,1,Europe
+2012,UZB,Uzbekistan,London,Great Britain,0,0,3,3,Asia
+2012,GRC,Greece,London,Great Britain,0,0,2,2,Europe
+2012,QAT,Qatar,London,Great Britain,0,0,2,2,Asia
+2012,SGP,Singapore,London,Great Britain,0,0,2,2,Asia
+2012,AFG,Afghanistan,London,Great Britain,0,0,1,1,Asia
+2012,CMR,Cameroon,London,Great Britain,0,0,1,1,Africa
+2012,HKG,Hong Kong,London,Great Britain,0,0,1,1,Asia
+2012,KWT,Kuwait,London,Great Britain,0,0,1,1,Asia
+2012,MAR,Morocco,London,Great Britain,0,0,1,1,Africa
+2012,SAU,Saudi Arabia,London,Great Britain,0,0,1,1,Asia
+2012,TJK,Tajikistan,London,Great Britain,0,0,1,1,Asia
+2012,VNM,Vietnam,London,Great Britain,0,0,1,1,Asia
+2008,CHN,China,Beijing,China,48,22,30,100,Asia
+2008,USA,United States,Beijing,China,36,39,37,112,North America
+2008,RUS,Russia,Beijing,China,24,13,23,60,Europe
+2008,GBR,Great Britain,Beijing,China,19,13,19,51,Europe
+2008,DEU,Germany,Beijing,China,16,11,14,41,Europe
+2008,AUS,Australia,Beijing,China,14,15,17,46,Oceania
+2008,KOR,South Korea,Beijing,China,13,11,8,32,Asia
+2008,JPN,Japan,Beijing,China,9,8,8,25,Asia
+2008,ITA,Italy,Beijing,China,8,9,10,27,Europe
+2008,FRA,France,Beijing,China,7,16,20,43,Europe
+2008,NLD,Netherlands,Beijing,China,7,5,4,16,Europe
+2008,UKR,Ukraine,Beijing,China,7,4,11,22,Europe
+2008,KEN,Kenya,Beijing,China,6,4,6,16,Africa
+2008,ESP,Spain,Beijing,China,5,11,3,19,Europe
+2008,JAM,Jamaica,Beijing,China,5,4,2,11,North America
+2008,POL,Poland,Beijing,China,4,5,2,11,Europe
+2008,ETH,Ethiopia,Beijing,China,4,2,1,7,Africa
+2008,ROU,Romania,Beijing,China,4,1,4,9,Europe
+2008,CUB,Cuba,Beijing,China,3,10,17,30,North America
+2008,CAN,Canada,Beijing,China,3,9,8,20,North America
+2008,HUN,Hungary,Beijing,China,3,5,2,10,Europe
+2008,NOR,Norway,Beijing,China,3,5,1,9,Europe
+2008,BRA,Brazil,Beijing,China,3,4,10,17,South America
+2008,BLR,Belarus,Beijing,China,3,4,7,14,Europe
+2008,CZE,Czech Republic,Beijing,China,3,3,1,7,Europe
+2008,SVK,Slovakia,Beijing,China,3,3,0,6,Europe
+2008,NZL,New Zealand,Beijing,China,3,2,4,9,Oceania
+2008,GEO,Georgia,Beijing,China,3,2,2,7,Asia
+2008,KAZ,Kazakhstan,Beijing,China,2,3,4,9,Asia
+2008,DNK,Denmark,Beijing,China,2,2,3,7,Europe
+2008,PRK,North Korea,Beijing,China,2,2,2,6,Asia
+2008,THA,Thailand,Beijing,China,2,2,2,6,Asia
+2008,MNG,Mongolia,Beijing,China,2,2,0,4,Asia
+2008,CHE,Switzerland,Beijing,China,2,1,4,7,Europe
+2008,ARG,Argentina,Beijing,China,2,0,4,6,South America
+2008,MEX,Mexico,Beijing,China,2,0,2,4,North America
+2008,BEL,Belgium,Beijing,China,2,0,0,2,Europe
+2008,ZWE,Zimbabwe,Beijing,China,1,3,0,4,Africa
+2008,SVN,Slovenia,Beijing,China,1,2,2,5,Europe
+2008,AZE,Azerbaijan,Beijing,China,1,1,4,6,Asia
+2008,IDN,Indonesia,Beijing,China,1,1,4,6,Asia
+2008,BGR,Bulgaria,Beijing,China,1,1,3,5,Europe
+2008,TUR,Turkey,Beijing,China,1,1,3,5,Asia
+2008,TWN,Chinese Taipei,Beijing,China,1,1,2,4,Asia
+2008,FIN,Finland,Beijing,China,1,1,2,4,Europe
+2008,LVA,Latvia,Beijing,China,1,1,1,3,Europe
+2008,DOM,Dominican Republic,Beijing,China,1,1,0,2,North America
+2008,EST,Estonia,Beijing,China,1,1,0,2,Europe
+2008,PRT,Portugal,Beijing,China,1,1,0,2,Europe
+2008,TTO,Trinidad and Tobago,Beijing,China,1,1,0,2,North America
+2008,IND,India,Beijing,China,1,0,2,3,Asia
+2008,IRN,Iran,Beijing,China,1,0,1,2,Asia
+2008,CMR,Cameroon,Beijing,China,1,0,0,1,Africa
+2008,PAN,Panama,Beijing,China,1,0,0,1,North America
+2008,TUN,Tunisia,Beijing,China,1,0,0,1,Africa
+2008,SWE,Sweden,Beijing,China,0,4,1,5,Europe
+2008,LTU,Lithuania,Beijing,China,0,3,2,5,Europe
+2008,NGA,Nigeria,Beijing,China,0,3,2,5,Africa
+2008,HRV,Croatia,Beijing,China,0,2,3,5,Europe
+2008,COL,Colombia,Beijing,China,0,2,1,3,South America
+2008,GRC,Greece,Beijing,China,0,2,1,3,Europe
+2008,ARM,Armenia,Beijing,China,0,1,4,5,Asia
+2008,UZB,Uzbekistan,Beijing,China,0,1,3,4,Asia
+2008,AUT,Austria,Beijing,China,0,1,2,3,Europe
+2008,IRL,Ireland,Beijing,China,0,1,2,3,Europe
+2008,KGZ,Kyrgyzstan,Beijing,China,0,1,2,3,Asia
+2008,SRB,Serbia,Beijing,China,0,1,2,3,Europe
+2008,DZA,Algeria,Beijing,China,0,1,1,2,Africa
+2008,BHS,Bahamas,Beijing,China,0,1,1,2,North America
+2008,MAR,Morocco,Beijing,China,0,1,1,2,Africa
+2008,TJK,Tajikistan,Beijing,China,0,1,1,2,Asia
+2008,CHL,Chile,Beijing,China,0,1,0,1,South America
+2008,ECU,Ecuador,Beijing,China,0,1,0,1,South America
+2008,ISL,Iceland,Beijing,China,0,1,0,1,Europe
+2008,MYS,Malaysia,Beijing,China,0,1,0,1,Asia
+2008,WSM,Samoa,Beijing,China,0,1,0,1,Oceania
+2008,SGP,Singapore,Beijing,China,0,1,0,1,Asia
+2008,ZAF,South Africa,Beijing,China,0,1,0,1,Africa
+2008,SDN,Sudan,Beijing,China,0,1,0,1,Africa
+2008,VNM,Vietnam,Beijing,China,0,1,0,1,Asia
+2008,EGY,Egypt,Beijing,China,0,0,2,2,Africa
+2008,AFG,Afghanistan,Beijing,China,0,0,1,1,Asia
+2008,ISR,Israel,Beijing,China,0,0,1,1,Asia
+2008,MUS,Mauritius,Beijing,China,0,0,1,1,Africa
+2008,MDA,Moldova,Beijing,China,0,0,1,1,Europe
+2008,TGO,Togo,Beijing,China,0,0,1,1,Africa
+2008,VEN,Venezuela,Beijing,China,0,0,1,1,South America
+2004,USA,United States,Athens,Greece,36,39,26,101,North America
+2004,CHN,China,Athens,Greece,32,17,14,63,Asia
+2004,RUS,Russia,Athens,Greece,28,26,36,90,Europe
+2004,AUS,Australia,Athens,Greece,17,16,17,50,Oceania
+2004,JPN,Japan,Athens,Greece,16,9,12,37,Asia
+2004,DEU,Germany,Athens,Greece,13,16,20,49,Europe
+2004,FRA,France,Athens,Greece,11,9,13,33,Europe
+2004,ITA,Italy,Athens,Greece,10,11,11,32,Europe
+2004,KOR,South Korea,Athens,Greece,9,12,9,30,Asia
+2004,GBR,Great Britain,Athens,Greece,9,9,12,30,Europe
+2004,CUB,Cuba,Athens,Greece,9,7,11,27,North America
+2004,HUN,Hungary,Athens,Greece,8,6,3,17,Europe
+2004,UKR,Ukraine,Athens,Greece,8,5,9,22,Europe
+2004,ROU,Romania,Athens,Greece,8,5,6,19,Europe
+2004,GRC,Greece,Athens,Greece,6,6,4,16,Europe
+2004,BRA,Brazil,Athens,Greece,5,2,3,10,South America
+2004,NOR,Norway,Athens,Greece,5,0,1,6,Europe
+2004,NLD,Netherlands,Athens,Greece,4,9,9,22,Europe
+2004,SWE,Sweden,Athens,Greece,4,2,1,7,Europe
+2004,ESP,Spain,Athens,Greece,3,11,6,20,Europe
+2004,CAN,Canada,Athens,Greece,3,6,3,12,North America
+2004,TUR,Turkey,Athens,Greece,3,3,5,11,Asia
+2004,POL,Poland,Athens,Greece,3,2,5,10,Europe
+2004,NZL,New Zealand,Athens,Greece,3,2,0,5,Oceania
+2004,THA,Thailand,Athens,Greece,3,1,4,8,Asia
+2004,BLR,Belarus,Athens,Greece,2,5,6,13,Europe
+2004,AUT,Austria,Athens,Greece,2,4,1,7,Europe
+2004,ETH,Ethiopia,Athens,Greece,2,3,2,7,Africa
+2004,IRN,Iran,Athens,Greece,2,2,2,6,Asia
+2004,SVK,Slovakia,Athens,Greece,2,2,2,6,Europe
+2004,TWN,Chinese Taipei,Athens,Greece,2,2,1,5,Asia
+2004,GEO,Georgia,Athens,Greece,2,2,0,4,Asia
+2004,BGR,Bulgaria,Athens,Greece,2,1,9,12,Europe
+2004,DNK,Denmark,Athens,Greece,2,1,5,8,Europe
+2004,JAM,Jamaica,Athens,Greece,2,1,2,5,North America
+2004,UZB,Uzbekistan,Athens,Greece,2,1,2,5,Asia
+2004,MAR,Morocco,Athens,Greece,2,1,0,3,Africa
+2004,ARG,Argentina,Athens,Greece,2,0,4,6,South America
+2004,CHL,Chile,Athens,Greece,2,0,1,3,South America
+2004,KAZ,Kazakhstan,Athens,Greece,1,4,3,8,Asia
+2004,KEN,Kenya,Athens,Greece,1,4,2,7,Africa
+2004,CZE,Czech Republic,Athens,Greece,1,3,5,9,Europe
+2004,ZAF,South Africa,Athens,Greece,1,3,2,6,Africa
+2004,HRV,Croatia,Athens,Greece,1,2,2,5,Europe
+2004,LTU,Lithuania,Athens,Greece,1,2,0,3,Europe
+2004,EGY,Egypt,Athens,Greece,1,1,3,5,Africa
+2004,CHE,Switzerland,Athens,Greece,1,1,3,5,Europe
+2004,IDN,Indonesia,Athens,Greece,1,1,2,4,Asia
+2004,ZWE,Zimbabwe,Athens,Greece,1,1,1,3,Africa
+2004,AZE,Azerbaijan,Athens,Greece,1,0,4,5,Asia
+2004,BEL,Belgium,Athens,Greece,1,0,2,3,Europe
+2004,BHS,Bahamas,Athens,Greece,1,0,1,2,North America
+2004,ISR,Israel,Athens,Greece,1,0,1,2,Asia
+2004,CMR,Cameroon,Athens,Greece,1,0,0,1,Africa
+2004,DOM,Dominican Republic,Athens,Greece,1,0,0,1,North America
+2004,ARE,United Arab Emirates,Athens,Greece,1,0,0,1,Asia
+2004,PRK,North Korea,Athens,Greece,0,4,1,5,Asia
+2004,LVA,Latvia,Athens,Greece,0,4,0,4,Europe
+2004,MEX,Mexico,Athens,Greece,0,3,1,4,North America
+2004,PRT,Portugal,Athens,Greece,0,2,1,3,Europe
+2004,FIN,Finland,Athens,Greece,0,2,0,2,Europe
+2004,SCG,Serbia and Montenegro,Athens,Greece,0,2,0,2,Europe
+2004,SVN,Slovenia,Athens,Greece,0,1,3,4,Europe
+2004,EST,Estonia,Athens,Greece,0,1,2,3,Europe
+2004,HKG,Hong Kong,Athens,Greece,0,1,0,1,Asia
+2004,IND,India,Athens,Greece,0,1,0,1,Asia
+2004,PRY,Paraguay,Athens,Greece,0,1,0,1,South America
+2004,COL,Colombia,Athens,Greece,0,0,2,2,South America
+2004,NGA,Nigeria,Athens,Greece,0,0,2,2,Africa
+2004,VEN,Venezuela,Athens,Greece,0,0,2,2,South America
+2004,ERI,Eritrea,Athens,Greece,0,0,1,1,Africa
+2004,MNG,Mongolia,Athens,Greece,0,0,1,1,Asia
+2004,SYR,Syria,Athens,Greece,0,0,1,1,Asia
+2004,TTO,Trinidad and Tobago,Athens,Greece,0,0,1,1,North America
+2000,USA,United States,Sydney,Australia,37,24,32,93,North America
+2000,RUS,Russia,Sydney,Australia,32,28,29,89,Europe
+2000,CHN,China,Sydney,Australia,28,16,14,58,Asia
+2000,AUS,Australia,Sydney,Australia,16,25,17,58,Oceania
+2000,DEU,Germany,Sydney,Australia,13,17,26,56,Europe
+2000,FRA,France,Sydney,Australia,13,14,11,38,Europe
+2000,ITA,Italy,Sydney,Australia,13,8,13,34,Europe
+2000,NLD,Netherlands,Sydney,Australia,12,9,4,25,Europe
+2000,CUB,Cuba,Sydney,Australia,11,11,7,29,North America
+2000,GBR,Great Britain,Sydney,Australia,11,10,7,28,Europe
+2000,ROU,Romania,Sydney,Australia,11,6,9,26,Europe
+2000,KOR,South Korea,Sydney,Australia,8,10,10,28,Asia
+2000,HUN,Hungary,Sydney,Australia,8,6,3,17,Europe
+2000,POL,Poland,Sydney,Australia,6,5,3,14,Europe
+2000,JPN,Japan,Sydney,Australia,5,8,5,18,Asia
+2000,BGR,Bulgaria,Sydney,Australia,5,6,2,13,Europe
+2000,GRC,Greece,Sydney,Australia,4,6,3,13,Europe
+2000,SWE,Sweden,Sydney,Australia,4,5,3,12,Europe
+2000,NOR,Norway,Sydney,Australia,4,3,3,10,Europe
+2000,ETH,Ethiopia,Sydney,Australia,4,1,3,8,Africa
+2000,UKR,Ukraine,Sydney,Australia,3,10,10,23,Europe
+2000,KAZ,Kazakhstan,Sydney,Australia,3,4,0,7,Asia
+2000,BLR,Belarus,Sydney,Australia,3,3,11,17,Europe
+2000,CAN,Canada,Sydney,Australia,3,3,8,14,North America
+2000,ESP,Spain,Sydney,Australia,3,3,5,11,Europe
+2000,TUR,Turkey,Sydney,Australia,3,0,2,5,Asia
+2000,IRN,Iran,Sydney,Australia,3,0,1,4,Asia
+2000,CZE,Czech Republic,Sydney,Australia,2,3,3,8,Europe
+2000,KEN,Kenya,Sydney,Australia,2,3,2,7,Africa
+2000,DNK,Denmark,Sydney,Australia,2,3,1,6,Europe
+2000,FIN,Finland,Sydney,Australia,2,1,1,4,Europe
+2000,AUT,Austria,Sydney,Australia,2,1,0,3,Europe
+2000,LTU,Lithuania,Sydney,Australia,2,0,3,5,Europe
+2000,AZE,Azerbaijan,Sydney,Australia,2,0,1,3,Asia
+2000,BHS,Bahamas,Sydney,Australia,2,0,1,3,North America
+2000,SVN,Slovenia,Sydney,Australia,2,0,0,2,Europe
+2000,CHE,Switzerland,Sydney,Australia,1,6,2,9,Europe
+2000,IDN,Indonesia,Sydney,Australia,1,3,2,6,Asia
+2000,SVK,Slovakia,Sydney,Australia,1,3,1,5,Europe
+2000,MEX,Mexico,Sydney,Australia,1,2,3,6,North America
+2000,NGA,Nigeria,Sydney,Australia,1,2,0,3,Africa
+2000,DZA,Algeria,Sydney,Australia,1,1,3,5,Africa
+2000,UZB,Uzbekistan,Sydney,Australia,1,1,2,4,Asia
+2000,LVA,Latvia,Sydney,Australia,1,1,1,3,Europe
+2000,YUG,Yugoslavia,Sydney,Australia,1,1,1,3,Europe
+2000,NZL,New Zealand,Sydney,Australia,1,0,3,4,Oceania
+2000,EST,Estonia,Sydney,Australia,1,0,2,3,Europe
+2000,THA,Thailand,Sydney,Australia,1,0,2,3,Asia
+2000,HRV,Croatia,Sydney,Australia,1,0,1,2,Europe
+2000,CMR,Cameroon,Sydney,Australia,1,0,0,1,Africa
+2000,COL,Colombia,Sydney,Australia,1,0,0,1,South America
+2000,MOZ,Mozambique,Sydney,Australia,1,0,0,1,Africa
+2000,BRA,Brazil,Sydney,Australia,0,6,6,12,South America
+2000,JAM,Jamaica,Sydney,Australia,0,6,3,9,North America
+2000,BEL,Belgium,Sydney,Australia,0,2,3,5,Europe
+2000,ZAF,South Africa,Sydney,Australia,0,2,3,5,Africa
+2000,ARG,Argentina,Sydney,Australia,0,2,2,4,South America
+2000,TWN,Chinese Taipei,Sydney,Australia,0,1,4,5,Asia
+2000,MAR,Morocco,Sydney,Australia,0,1,4,5,Africa
+2000,PRK,North Korea,Sydney,Australia,0,1,3,4,Asia
+2000,MDA,Moldova,Sydney,Australia,0,1,1,2,Europe
+2000,SAU,Saudi Arabia,Sydney,Australia,0,1,1,2,Asia
+2000,TTO,Trinidad and Tobago,Sydney,Australia,0,1,1,2,North America
+2000,IRL,Ireland,Sydney,Australia,0,1,0,1,Europe
+2000,LKA,Sri Lanka,Sydney,Australia,0,1,0,1,Asia
+2000,URY,Uruguay,Sydney,Australia,0,1,0,1,South America
+2000,VNM,Vietnam,Sydney,Australia,0,1,0,1,Asia
+2000,GEO,Georgia,Sydney,Australia,0,0,6,6,Asia
+2000,CRI,Costa Rica,Sydney,Australia,0,0,2,2,North America
+2000,PRT,Portugal,Sydney,Australia,0,0,2,2,Europe
+2000,ARM,Armenia,Sydney,Australia,0,0,1,1,Asia
+2000,BRB,Barbados,Sydney,Australia,0,0,1,1,North America
+2000,CHL,Chile,Sydney,Australia,0,0,1,1,South America
+2000,ISL,Iceland,Sydney,Australia,0,0,1,1,Europe
+2000,IND,India,Sydney,Australia,0,0,1,1,Asia
+2000,ISR,Israel,Sydney,Australia,0,0,1,1,Asia
+2000,KWT,Kuwait,Sydney,Australia,0,0,1,1,Asia
+2000,KGZ,Kyrgyzstan,Sydney,Australia,0,0,1,1,Asia
+2000,MKD,Macedonia,Sydney,Australia,0,0,1,1,Europe
+2000,QAT,Qatar,Sydney,Australia,0,0,1,1,Asia
+1996,USA,United States,Atlanta,United States,44,32,25,101,North America
+1996,RUS,Russia,Atlanta,United States,26,21,16,63,Europe
+1996,DEU,Germany,Atlanta,United States,20,18,27,65,Europe
+1996,CHN,China,Atlanta,United States,16,22,12,50,Asia
+1996,FRA,France,Atlanta,United States,15,7,15,37,Europe
+1996,ITA,Italy,Atlanta,United States,13,10,12,35,Europe
+1996,AUS,Australia,Atlanta,United States,9,9,23,41,Oceania
+1996,CUB,Cuba,Atlanta,United States,9,8,8,25,North America
+1996,UKR,Ukraine,Atlanta,United States,9,2,12,23,Europe
+1996,KOR,South Korea,Atlanta,United States,7,15,5,27,Asia
+1996,POL,Poland,Atlanta,United States,7,5,5,17,Europe
+1996,HUN,Hungary,Atlanta,United States,7,4,10,21,Europe
+1996,ESP,Spain,Atlanta,United States,5,6,6,17,Europe
+1996,ROU,Romania,Atlanta,United States,4,7,9,20,Europe
+1996,NLD,Netherlands,Atlanta,United States,4,5,10,19,Europe
+1996,GRC,Greece,Atlanta,United States,4,4,0,8,Europe
+1996,CZE,Czech Republic,Atlanta,United States,4,3,4,11,Europe
+1996,CHE,Switzerland,Atlanta,United States,4,3,0,7,Europe
+1996,DNK,Denmark,Atlanta,United States,4,1,1,6,Europe
+1996,TUR,Turkey,Atlanta,United States,4,1,1,6,Asia
+1996,CAN,Canada,Atlanta,United States,3,11,8,22,North America
+1996,BGR,Bulgaria,Atlanta,United States,3,7,5,15,Europe
+1996,JPN,Japan,Atlanta,United States,3,6,5,14,Asia
+1996,KAZ,Kazakhstan,Atlanta,United States,3,4,4,11,Asia
+1996,BRA,Brazil,Atlanta,United States,3,3,9,15,South America
+1996,NZL,New Zealand,Atlanta,United States,3,2,1,6,Oceania
+1996,ZAF,South Africa,Atlanta,United States,3,1,1,5,Africa
+1996,IRL,Ireland,Atlanta,United States,3,0,1,4,Europe
+1996,SWE,Sweden,Atlanta,United States,2,4,2,8,Europe
+1996,NOR,Norway,Atlanta,United States,2,2,3,7,Europe
+1996,BEL,Belgium,Atlanta,United States,2,2,2,6,Europe
+1996,NGA,Nigeria,Atlanta,United States,2,1,3,6,Africa
+1996,PRK,North Korea,Atlanta,United States,2,1,2,5,Asia
+1996,DZA,Algeria,Atlanta,United States,2,0,1,3,Africa
+1996,ETH,Ethiopia,Atlanta,United States,2,0,1,3,Africa
+1996,GBR,Great Britain,Atlanta,United States,1,8,6,15,Europe
+1996,BLR,Belarus,Atlanta,United States,1,6,8,15,Europe
+1996,KEN,Kenya,Atlanta,United States,1,4,3,8,Africa
+1996,JAM,Jamaica,Atlanta,United States,1,3,2,6,North America
+1996,FIN,Finland,Atlanta,United States,1,2,1,4,Europe
+1996,IDN,Indonesia,Atlanta,United States,1,1,2,4,Asia
+1996,YUG,Yugoslavia,Atlanta,United States,1,1,2,4,Europe
+1996,IRN,Iran,Atlanta,United States,1,1,1,3,Asia
+1996,SVK,Slovakia,Atlanta,United States,1,1,1,3,Europe
+1996,ARM,Armenia,Atlanta,United States,1,1,0,2,Asia
+1996,HRV,Croatia,Atlanta,United States,1,1,0,2,Europe
+1996,PRT,Portugal,Atlanta,United States,1,0,1,2,Europe
+1996,THA,Thailand,Atlanta,United States,1,0,1,2,Asia
+1996,BDI,Burundi,Atlanta,United States,1,0,0,1,Africa
+1996,CRI,Costa Rica,Atlanta,United States,1,0,0,1,North America
+1996,ECU,Ecuador,Atlanta,United States,1,0,0,1,South America
+1996,HKG,Hong Kong,Atlanta,United States,1,0,0,1,Asia
+1996,SYR,Syria,Atlanta,United States,1,0,0,1,Asia
+1996,ARG,Argentina,Atlanta,United States,0,2,1,3,South America
+1996,NAM,Namibia,Atlanta,United States,0,2,0,2,Africa
+1996,SVN,Slovenia,Atlanta,United States,0,2,0,2,Europe
+1996,AUT,Austria,Atlanta,United States,0,1,2,3,Europe
+1996,MYS,Malaysia,Atlanta,United States,0,1,1,2,Asia
+1996,MDA,Moldova,Atlanta,United States,0,1,1,2,Europe
+1996,UZB,Uzbekistan,Atlanta,United States,0,1,1,2,Asia
+1996,AZE,Azerbaijan,Atlanta,United States,0,1,0,1,Asia
+1996,BHS,Bahamas,Atlanta,United States,0,1,0,1,North America
+1996,TWN,Chinese Taipei,Atlanta,United States,0,1,0,1,Asia
+1996,LVA,Latvia,Atlanta,United States,0,1,0,1,Europe
+1996,PHL,Philippines,Atlanta,United States,0,1,0,1,Asia
+1996,TON,Tonga,Atlanta,United States,0,1,0,1,Oceania
+1996,ZMB,Zambia,Atlanta,United States,0,1,0,1,Africa
+1996,GEO,Georgia,Atlanta,United States,0,0,2,2,Asia
+1996,MAR,Morocco,Atlanta,United States,0,0,2,2,Africa
+1996,TTO,Trinidad and Tobago,Atlanta,United States,0,0,2,2,North America
+1996,IND,India,Atlanta,United States,0,0,1,1,Asia
+1996,ISR,Israel,Atlanta,United States,0,0,1,1,Asia
+1996,LTU,Lithuania,Atlanta,United States,0,0,1,1,Europe
+1996,MEX,Mexico,Atlanta,United States,0,0,1,1,North America
+1996,MNG,Mongolia,Atlanta,United States,0,0,1,1,Asia
+1996,MOZ,Mozambique,Atlanta,United States,0,0,1,1,Africa
+1996,PRI,Puerto Rico,Atlanta,United States,0,0,1,1,North America
+1996,TUN,Tunisia,Atlanta,United States,0,0,1,1,Africa
+1996,UGA,Uganda,Atlanta,United States,0,0,1,1,Africa
+1992,EUN,Unified Team,Barcelona,Spain,45,38,29,112,Europe
+1992,USA,United States,Barcelona,Spain,37,34,37,108,North America
+1992,DEU,Germany,Barcelona,Spain,33,21,28,82,Europe
+1992,CHN,China,Barcelona,Spain,16,22,16,54,Asia
+1992,CUB,Cuba,Barcelona,Spain,14,6,11,31,North America
+1992,ESP,Spain,Barcelona,Spain,13,7,2,22,Europe
+1992,KOR,South Korea,Barcelona,Spain,12,5,12,29,Asia
+1992,HUN,Hungary,Barcelona,Spain,11,12,7,30,Europe
+1992,FRA,France,Barcelona,Spain,8,5,16,29,Europe
+1992,AUS,Australia,Barcelona,Spain,7,9,11,27,Oceania
+1992,CAN,Canada,Barcelona,Spain,7,4,7,18,North America
+1992,ITA,Italy,Barcelona,Spain,6,5,8,19,Europe
+1992,GBR,Great Britain,Barcelona,Spain,5,3,12,20,Europe
+1992,ROU,Romania,Barcelona,Spain,4,6,8,18,Europe
+1992,CZE,Czechoslovakia,Barcelona,Spain,4,2,1,7,Europe
+1992,PRK,North Korea,Barcelona,Spain,4,0,5,9,Asia
+1992,JPN,Japan,Barcelona,Spain,3,8,11,22,Asia
+1992,BGR,Bulgaria,Barcelona,Spain,3,7,6,16,Europe
+1992,POL,Poland,Barcelona,Spain,3,6,10,19,Europe
+1992,NLD,Netherlands,Barcelona,Spain,2,6,7,15,Europe
+1992,KEN,Kenya,Barcelona,Spain,2,4,2,8,Africa
+1992,NOR,Norway,Barcelona,Spain,2,4,1,7,Europe
+1992,TUR,Turkey,Barcelona,Spain,2,2,2,6,Asia
+1992,IDN,Indonesia,Barcelona,Spain,2,2,1,5,Asia
+1992,BRA,Brazil,Barcelona,Spain,2,1,0,3,South America
+1992,GRC,Greece,Barcelona,Spain,2,0,0,2,Europe
+1992,SWE,Sweden,Barcelona,Spain,1,7,4,12,Europe
+1992,NZL,New Zealand,Barcelona,Spain,1,4,5,10,Oceania
+1992,FIN,Finland,Barcelona,Spain,1,2,2,5,Europe
+1992,DNK,Denmark,Barcelona,Spain,1,1,4,6,Europe
+1992,MAR,Morocco,Barcelona,Spain,1,1,1,3,Africa
+1992,IRL,Ireland,Barcelona,Spain,1,1,0,2,Europe
+1992,ETH,Ethiopia,Barcelona,Spain,1,0,2,3,Africa
+1992,DZA,Algeria,Barcelona,Spain,1,0,1,2,Africa
+1992,EST,Estonia,Barcelona,Spain,1,0,1,2,Europe
+1992,LTU,Lithuania,Barcelona,Spain,1,0,1,2,Europe
+1992,CHE,Switzerland,Barcelona,Spain,1,0,0,1,Europe
+1992,JAM,Jamaica,Barcelona,Spain,0,3,1,4,North America
+1992,NGA,Nigeria,Barcelona,Spain,0,3,1,4,Africa
+1992,LVA,Latvia,Barcelona,Spain,0,2,1,3,Europe
+1992,AUT,Austria,Barcelona,Spain,0,2,0,2,Europe
+1992,NAM,Namibia,Barcelona,Spain,0,2,0,2,Africa
+1992,ZAF,South Africa,Barcelona,Spain,0,2,0,2,Africa
+1992,BEL,Belgium,Barcelona,Spain,0,1,2,3,Europe
+1992,HRV,Croatia,Barcelona,Spain,0,1,2,3,Europe
+1992,IOP,Independent Olympic Participants,Barcelona,Spain,0,1,2,3,Independent
+1992,IRN,Iran,Barcelona,Spain,0,1,2,3,Asia
+1992,ISR,Israel,Barcelona,Spain,0,1,1,2,Asia
+1992,TWN,Chinese Taipei,Barcelona,Spain,0,1,0,1,Asia
+1992,MEX,Mexico,Barcelona,Spain,0,1,0,1,North America
+1992,PER,Peru,Barcelona,Spain,0,1,0,1,South America
+1992,MNG,Mongolia,Barcelona,Spain,0,0,2,2,Asia
+1992,SVN,Slovenia,Barcelona,Spain,0,0,2,2,Europe
+1992,ARG,Argentina,Barcelona,Spain,0,0,1,1,South America
+1992,BHS,Bahamas,Barcelona,Spain,0,0,1,1,North America
+1992,COL,Colombia,Barcelona,Spain,0,0,1,1,South America
+1992,GHA,Ghana,Barcelona,Spain,0,0,1,1,Africa
+1992,MYS,Malaysia,Barcelona,Spain,0,0,1,1,Asia
+1992,PAK,Pakistan,Barcelona,Spain,0,0,1,1,Asia
+1992,PHL,Philippines,Barcelona,Spain,0,0,1,1,Asia
+1992,PRI,Puerto Rico,Barcelona,Spain,0,0,1,1,North America
+1992,QAT,Qatar,Barcelona,Spain,0,0,1,1,Asia
+1992,SUR,Suriname,Barcelona,Spain,0,0,1,1,South America
+1992,THA,Thailand,Barcelona,Spain,0,0,1,1,Asia
+1988,RUS,Soviet Union,Seoul,South Korea,55,31,46,132,Europe
+1988,DEU,East Germany,Seoul,South Korea,37,35,30,102,Europe
+1988,USA,United States,Seoul,South Korea,36,31,27,94,North America
+1988,KOR,South Korea,Seoul,South Korea,12,10,11,33,Asia
+1988,DEU,West Germany,Seoul,South Korea,11,14,15,40,Europe
+1988,HUN,Hungary,Seoul,South Korea,11,6,6,23,Europe
+1988,BGR,Bulgaria,Seoul,South Korea,10,12,13,35,Europe
+1988,ROU,Romania,Seoul,South Korea,7,11,6,24,Europe
+1988,FRA,France,Seoul,South Korea,6,4,6,16,Europe
+1988,ITA,Italy,Seoul,South Korea,6,4,4,14,Europe
+1988,CHN,China,Seoul,South Korea,5,11,12,28,Asia
+1988,GBR,Great Britain,Seoul,South Korea,5,10,9,24,Europe
+1988,KEN,Kenya,Seoul,South Korea,5,2,2,9,Africa
+1988,JPN,Japan,Seoul,South Korea,4,3,7,14,Asia
+1988,AUS,Australia,Seoul,South Korea,3,6,5,14,Oceania
+1988,YUG,Yugoslavia,Seoul,South Korea,3,4,5,12,Europe
+1988,CZE,Czechoslovakia,Seoul,South Korea,3,3,2,8,Europe
+1988,NZL,New Zealand,Seoul,South Korea,3,2,8,13,Oceania
+1988,CAN,Canada,Seoul,South Korea,3,2,5,10,North America
+1988,POL,Poland,Seoul,South Korea,2,5,9,16,Europe
+1988,NOR,Norway,Seoul,South Korea,2,3,0,5,Europe
+1988,NLD,Netherlands,Seoul,South Korea,2,2,5,9,Europe
+1988,DNK,Denmark,Seoul,South Korea,2,1,1,4,Europe
+1988,BRA,Brazil,Seoul,South Korea,1,2,3,6,South America
+1988,FIN,Finland,Seoul,South Korea,1,1,2,4,Europe
+1988,ESP,Spain,Seoul,South Korea,1,1,2,4,Europe
+1988,TUR,Turkey,Seoul,South Korea,1,1,0,2,Asia
+1988,MAR,Morocco,Seoul,South Korea,1,0,2,3,Africa
+1988,AUT,Austria,Seoul,South Korea,1,0,0,1,Europe
+1988,PRT,Portugal,Seoul,South Korea,1,0,0,1,Europe
+1988,SUR,Suriname,Seoul,South Korea,1,0,0,1,South America
+1988,SWE,Sweden,Seoul,South Korea,0,4,7,11,Europe
+1988,CHE,Switzerland,Seoul,South Korea,0,2,2,4,Europe
+1988,JAM,Jamaica,Seoul,South Korea,0,2,0,2,North America
+1988,ARG,Argentina,Seoul,South Korea,0,1,1,2,South America
+1988,CHL,Chile,Seoul,South Korea,0,1,0,1,South America
+1988,CRI,Costa Rica,Seoul,South Korea,0,1,0,1,North America
+1988,IDN,Indonesia,Seoul,South Korea,0,1,0,1,Asia
+1988,IRN,Iran,Seoul,South Korea,0,1,0,1,Asia
+1988,ANT,Netherlands Antilles,Seoul,South Korea,0,1,0,1,South America
+1988,PER,Peru,Seoul,South Korea,0,1,0,1,South America
+1988,SEN,Senegal,Seoul,South Korea,0,1,0,1,Africa
+1988,VIR,Virgin Islands,Seoul,South Korea,0,1,0,1,North America
+1988,BEL,Belgium,Seoul,South Korea,0,0,2,2,Europe
+1988,MEX,Mexico,Seoul,South Korea,0,0,2,2,North America
+1988,COL,Colombia,Seoul,South Korea,0,0,1,1,South America
+1988,DJI,Djibouti,Seoul,South Korea,0,0,1,1,Africa
+1988,GRC,Greece,Seoul,South Korea,0,0,1,1,Europe
+1988,MNG,Mongolia,Seoul,South Korea,0,0,1,1,Asia
+1988,PAK,Pakistan,Seoul,South Korea,0,0,1,1,Asia
+1988,PHL,Philippines,Seoul,South Korea,0,0,1,1,Asia
+1988,THA,Thailand,Seoul,South Korea,0,0,1,1,Asia
+1956,RUS,Soviet Union,,,37,29,32,98,Europe
+1956,USA,United States,,,32,25,17,74,North America
+1956,AUS,Australia,,,13,8,14,35,Oceania
+1956,HUN,Hungary,,,9,10,7,26,Europe
+1956,ITA,Italy,,,8,8,9,25,Europe
+1956,SWE,Sweden,,,8,5,6,19,Europe
+1956,DEU,United Team of Germany,,,6,13,7,26,Europe
+1956,GBR,Great Britain,,,6,7,11,24,Europe
+1956,ROU,Romania,,,5,3,5,13,Europe
+1956,JPN,Japan,,,4,10,5,19,Asia
+1956,FRA,France,,,4,4,6,14,Europe
+1956,TUR,Turkey,,,3,2,2,7,Asia
+1956,FIN,Finland,,,3,1,11,15,Europe
+1956,IRN,Iran,,,2,2,1,5,Asia
+1956,CAN,Canada,,,2,1,3,6,North America
+1956,NZL,New Zealand,,,2,0,0,2,Oceania
+1956,POL,Poland,,,1,4,4,9,Europe
+1956,CZE,Czechoslovakia,,,1,4,1,6,Europe
+1956,BGR,Bulgaria,,,1,3,1,5,Europe
+1956,DNK,Denmark,,,1,2,1,4,Europe
+1956,IRL,Ireland,,,1,1,3,5,Europe
+1956,NOR,Norway,,,1,0,2,3,Europe
+1956,MEX,Mexico,,,1,0,1,2,North America
+1956,BRA,Brazil,,,1,0,0,1,South America
+1956,IND,India,,,1,0,0,1,Asia
+1956,YUG,Yugoslavia,,,0,3,0,3,Europe
+1956,CHL,Chile,,,0,2,2,4,South America
+1956,BEL,Belgium,,,0,2,0,2,Europe
+1956,ARG,Argentina,,,0,1,1,2,South America
+1956,KOR,South Korea,,,0,1,1,2,Asia
+1956,ISL,Iceland,,,0,1,0,1,Europe
+1956,PAK,Pakistan,,,0,1,0,1,Asia
+1956,ZAF,South Africa,,,0,0,4,4,Africa
+1956,AUT,Austria,,,0,0,2,2,Europe
+1956,BHS,Bahamas,,,0,0,1,1,North America
+1956,GRC,Greece,,,0,0,1,1,Europe
+1956,CHE,Switzerland,,,0,0,1,1,Europe
+1956,URY,Uruguay,,,0,0,1,1,South America
+1952,USA,United States,Helsinki,Finland,40,19,17,76,North America
+1952,RUS,Soviet Union,Helsinki,Finland,22,30,19,71,Europe
+1952,HUN,Hungary,Helsinki,Finland,16,10,16,42,Europe
+1952,SWE,Sweden,Helsinki,Finland,12,13,10,35,Europe
+1952,ITA,Italy,Helsinki,Finland,8,9,4,21,Europe
+1952,CZE,Czechoslovakia,Helsinki,Finland,7,3,3,13,Europe
+1952,FRA,France,Helsinki,Finland,6,6,6,18,Europe
+1952,FIN,Finland,Helsinki,Finland,6,3,13,22,Europe
+1952,AUS,Australia,Helsinki,Finland,6,2,3,11,Oceania
+1952,NOR,Norway,Helsinki,Finland,3,2,0,5,Europe
+1952,CHE,Switzerland,Helsinki,Finland,2,6,6,14,Europe
+1952,ZAF,South Africa,Helsinki,Finland,2,4,4,10,Africa
+1952,JAM,Jamaica,Helsinki,Finland,2,3,0,5,North America
+1952,BEL,Belgium,Helsinki,Finland,2,2,0,4,Europe
+1952,DNK,Denmark,Helsinki,Finland,2,1,3,6,Europe
+1952,TUR,Turkey,Helsinki,Finland,2,0,1,3,Asia
+1952,JPN,Japan,Helsinki,Finland,1,6,2,9,Asia
+1952,GBR,Great Britain,Helsinki,Finland,1,2,8,11,Europe
+1952,ARG,Argentina,Helsinki,Finland,1,2,2,5,South America
+1952,POL,Poland,Helsinki,Finland,1,2,1,4,Europe
+1952,CAN,Canada,Helsinki,Finland,1,2,0,3,North America
+1952,YUG,Yugoslavia,Helsinki,Finland,1,2,0,3,Europe
+1952,ROU,Romania,Helsinki,Finland,1,1,2,4,Europe
+1952,BRA,Brazil,Helsinki,Finland,1,0,2,3,South America
+1952,NZL,New Zealand,Helsinki,Finland,1,0,2,3,Oceania
+1952,IND,India,Helsinki,Finland,1,0,1,2,Asia
+1952,LUX,Luxembourg,Helsinki,Finland,1,0,0,1,Europe
+1952,DEU,Germany,Helsinki,Finland,0,7,17,24,Europe
+1952,NLD,Netherlands,Helsinki,Finland,0,5,0,5,Europe
+1952,IRN,Iran,Helsinki,Finland,0,3,4,7,Asia
+1952,CHL,Chile,Helsinki,Finland,0,2,0,2,South America
+1952,AUT,Austria,Helsinki,Finland,0,1,1,2,Europe
+1952,LBN,Lebanon,Helsinki,Finland,0,1,1,2,Asia
+1952,IRL,Ireland,Helsinki,Finland,0,1,0,1,Europe
+1952,MEX,Mexico,Helsinki,Finland,0,1,0,1,North America
+1952,ESP,Spain,Helsinki,Finland,0,1,0,1,Europe
+1952,KOR,South Korea,Helsinki,Finland,0,0,2,2,Asia
+1952,TTO,Trinidad and Tobago,Helsinki,Finland,0,0,2,2,North America
+1952,URY,Uruguay,Helsinki,Finland,0,0,2,2,South America
+1952,BGR,Bulgaria,Helsinki,Finland,0,0,1,1,Europe
+1952,EGY,Egypt,Helsinki,Finland,0,0,1,1,Africa
+1952,PRT,Portugal,Helsinki,Finland,0,0,1,1,Europe
+1952,VEN,Venezuela,Helsinki,Finland,0,0,1,1,South America
+1948,USA,United States,London,Great Britain,38,27,19,84,North America
+1948,SWE,Sweden,London,Great Britain,16,11,17,44,Europe
+1948,FRA,France,London,Great Britain,10,6,13,29,Europe
+1948,HUN,Hungary,London,Great Britain,10,5,12,27,Europe
+1948,ITA,Italy,London,Great Britain,8,11,8,27,Europe
+1948,FIN,Finland,London,Great Britain,8,7,5,20,Europe
+1948,TUR,Turkey,London,Great Britain,6,4,2,12,Asia
+1948,CZE,Czechoslovakia,London,Great Britain,6,2,3,11,Europe
+1948,CHE,Switzerland,London,Great Britain,5,10,5,20,Europe
+1948,DNK,Denmark,London,Great Britain,5,7,8,20,Europe
+1948,NLD,Netherlands,London,Great Britain,5,2,9,16,Europe
+1948,GBR,Great Britain,London,Great Britain,3,14,6,23,Europe
+1948,ARG,Argentina,London,Great Britain,3,3,1,7,South America
+1948,AUS,Australia,London,Great Britain,2,6,5,13,Oceania
+1948,BEL,Belgium,London,Great Britain,2,2,3,7,Europe
+1948,EGY,Egypt,London,Great Britain,2,2,1,5,Africa
+1948,MEX,Mexico,London,Great Britain,2,1,2,5,North America
+1948,ZAF,South Africa,London,Great Britain,2,1,1,4,Africa
+1948,NOR,Norway,London,Great Britain,1,3,3,7,Europe
+1948,JAM,Jamaica,London,Great Britain,1,2,0,3,North America
+1948,AUT,Austria,London,Great Britain,1,0,3,4,Europe
+1948,IND,India,London,Great Britain,1,0,0,1,Asia
+1948,PER,Peru,London,Great Britain,1,0,0,1,South America
+1948,YUG,Yugoslavia,London,Great Britain,0,2,0,2,Europe
+1948,CAN,Canada,London,Great Britain,0,1,2,3,North America
+1948,PRT,Portugal,London,Great Britain,0,1,1,2,Europe
+1948,URY,Uruguay,London,Great Britain,0,1,1,2,South America
+1948,LKA,Ceylon,London,Great Britain,0,1,0,1,Asia
+1948,CUB,Cuba,London,Great Britain,0,1,0,1,North America
+1948,ESP,Spain,London,Great Britain,0,1,0,1,Europe
+1948,TTO,Trinidad and Tobago,London,Great Britain,0,1,0,1,North America
+1948,PAN,Panama,London,Great Britain,0,0,2,2,North America
+1948,KOR,South Korea,London,Great Britain,0,0,2,2,Asia
+1948,BRA,Brazil,London,Great Britain,0,0,1,1,South America
+1948,IRN,Iran,London,Great Britain,0,0,1,1,Asia
+1948,POL,Poland,London,Great Britain,0,0,1,1,Europe
+1948,PRI,Puerto Rico,London,Great Britain,0,0,1,1,North America
+1936,DEU,Germany,Berlin,Germany,33,26,30,89,Europe
+1936,USA,United States,Berlin,Germany,24,20,12,56,North America
+1936,HUN,Hungary,Berlin,Germany,10,1,5,16,Europe
+1936,ITA,Italy,Berlin,Germany,8,9,5,22,Europe
+1936,FIN,Finland,Berlin,Germany,7,6,6,19,Europe
+1936,FRA,France,Berlin,Germany,7,6,6,19,Europe
+1936,SWE,Sweden,Berlin,Germany,6,5,9,20,Europe
+1936,JPN,Japan,Berlin,Germany,6,4,8,18,Asia
+1936,NLD,Netherlands,Berlin,Germany,6,4,7,17,Europe
+1936,GBR,Great Britain,Berlin,Germany,4,7,3,14,Europe
+1936,AUT,Austria,Berlin,Germany,4,6,3,13,Europe
+1936,CZE,Czechoslovakia,Berlin,Germany,3,5,0,8,Europe
+1936,ARG,Argentina,Berlin,Germany,2,2,3,7,South America
+1936,EST,Estonia,Berlin,Germany,2,2,3,7,Europe
+1936,EGY,Egypt,Berlin,Germany,2,1,2,5,Africa
+1936,CHE,Switzerland,Berlin,Germany,1,9,5,15,Europe
+1936,CAN,Canada,Berlin,Germany,1,3,5,9,North America
+1936,NOR,Norway,Berlin,Germany,1,3,2,6,Europe
+1936,TUR,Turkey,Berlin,Germany,1,0,1,2,Asia
+1936,IND,India,Berlin,Germany,1,0,0,1,Asia
+1936,NZL,New Zealand,Berlin,Germany,1,0,0,1,Oceania
+1936,POL,Poland,Berlin,Germany,0,3,3,6,Europe
+1936,DNK,Denmark,Berlin,Germany,0,2,3,5,Europe
+1936,LVA,Latvia,Berlin,Germany,0,1,1,2,Europe
+1936,ROU,Romania,Berlin,Germany,0,1,0,1,Europe
+1936,ZAF,South Africa,Berlin,Germany,0,1,0,1,Africa
+1936,YUG,Yugoslavia,Berlin,Germany,0,1,0,1,Europe
+1936,MEX,Mexico,Berlin,Germany,0,0,3,3,North America
+1936,BEL,Belgium,Berlin,Germany,0,0,2,2,Europe
+1936,AUS,Australia,Berlin,Germany,0,0,1,1,Oceania
+1936,PHL,Philippines,Berlin,Germany,0,0,1,1,Asia
+1936,PRT,Portugal,Berlin,Germany,0,0,1,1,Europe
